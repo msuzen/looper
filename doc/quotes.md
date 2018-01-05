@@ -57,7 +57,7 @@
   post there are links to follow up posts. "
   Uri Shalit, Technion
 
-## On the Pearl's Philospy
+## On the Pearl's Philosopy
 
 * "..while Pearl's work is foundational, and its importance  
   cannot be overstated, his published work is often 
