@@ -58,4 +58,6 @@
 
 * Python package [causalinference](https://github.com/laurencium/causalinference) [Vignette](https://github.com/laurencium/causalinference/blob/master/docs/tex/vignette.pdf)
 
+* Tetrad Project: Graphical Causal Models [homepage](http://www.phil.cmu.edu/tetrad/)
+
 

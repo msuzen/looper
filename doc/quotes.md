@@ -15,7 +15,7 @@
    cancer using data from past cancer patients, only 
    correlations will usually not suffice as you're 
    trying to predict counterfactual that might not exist in your data."
-   Uri Shalit, Technion
+   Uri Shalit, Technion (Forum Communication 01/2018)
 
 *  Reply to Uri: 
 
@@ -36,7 +36,7 @@
      died from lung cancer also.  Talk about causality bites, 
      predicting Fisher's means of death via the correlation would 
      have been trustable."
-     Mark Powell, Austin
+     Mark Powell, Austin (Forum Communication 01/2018)
 
 ## Rubin vs. Pearl
 
@@ -55,7 +55,7 @@
   [here](http://andrewgelman.com/2009/07/05/disputes_about/)
   Pearl writes in the comment section and in that blog  
   post there are links to follow up posts. "
-  Uri Shalit, Technion
+  Uri Shalit, Technion (Forum Communication 01/2018)
 
 ## On the Pearl's Philosopy
 
@@ -69,4 +69,6 @@
   inferring these purported causal relationships from data. 
   This is especially true if the data is high-dimensional 
    or noisy (Pearl usually considers a few binary or Gaussian variables)."
-  Uri Shalit, Technion
+  Uri Shalit, Technion (Forum Communication 01/2018)
+
+

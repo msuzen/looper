@@ -1,5 +1,8 @@
 # looper
-A resource list for causality in statistics, data science and physics
+
+`A resource list for causality in statistics, data science and physics.`
+
+An other fields of course such as econometrics, epidemiology.
 
 ## What do we have here
 
@@ -11,6 +14,7 @@ Set of documents such as resource lists, quotes or short articles.
 
 * [quotes](doc/quotes.md): Quotes and comments by topic.
 * [resource_list](doc/resource_list.md): General resources major books, published articles and software packages such as R, Python or anyother.
+* [economy related](doc/economy.md): Economy related, specially in econometrics.
 
 ## Licence
 
