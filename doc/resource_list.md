@@ -60,4 +60,9 @@
 
 * Tetrad Project: Graphical Causal Models [homepage](http://www.phil.cmu.edu/tetrad/)
 
+## MOOCs
+
+* A Crash Course in Causality: Inferring Causal Effects from Observational Data [link](https://www.coursera.org/learn/crash-course-in-causality)
+
+* Measuring Causal Effects in the Social Sciences [link](https://www.coursera.org/learn/causal-effects)
 
