@@ -15,6 +15,11 @@ Set of documents such as resource lists, quotes or short articles.
 * [quotes](doc/quotes.md): Quotes and comments by topic.
 * [resource_list](doc/resource_list.md): General resources major books, published articles and software packages such as R, Python or anyother.
 * [economy related](doc/economy.md): Economy related, specially in econometrics.
+* [physics related](doc/physics.md): Physics related, including discrete dynamical systems and information theory.
+
+### Contributions
+
+Please send a Pull request or create an issue for suggestions or codes. 
 
 ## Licence
 
@@ -23,3 +28,5 @@ Set of documents such as resource lists, quotes or short articles.
 Please attribute this work as follows 
 * A resource list for causality in statistics, data science and physics
   `http:github.com/msuzen/looper`.
+
+
