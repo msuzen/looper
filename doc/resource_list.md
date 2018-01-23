@@ -2,8 +2,9 @@
 
 ## Books
 
-* Rosenbaum
-  Observational Studies (Springer Series in Statistics) 2nd Edition
+
+* Rosenbaum  
+  Observational Studies (Springer Series in Statistics) 2nd Edition  (2002)
   [amzn](https://www.amzn.com/dp/0387989676)
 
 * Pearl, Glymour and Jewell,
@@ -26,6 +27,10 @@
 * Rosenbaum
   Observation and Experiment: An Introduction to Causal Inference (2017)
   [amzn](https://www.amzn.com/dp/067497557X/)
+
+* Jonas Peters, Dominik Janzing and Bernhard Schoelkopf (2017)
+  Elements of Causal Ingerence: Foundations and Learning Algorithms
+  [mitpress](https://mitpress.mit.edu/books/elements-causal-inference)
 
 * Hernán & Robins, Causal Inference (2018)
   [online](http://bit.ly/2mSeeXI)
