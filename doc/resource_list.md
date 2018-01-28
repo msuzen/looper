@@ -40,18 +40,24 @@ Reverse chronological order
 
 ## Papers
 
+* Theoretical Impediments to Machine Learning With Seven Sparks 
+  from the Causal Revolution, Judea Pearl
+  [arXiv:1801.04016](https://arxiv.org/abs/1801.04016)
+
+* Brodersen KH, Gallusser F, Koehler J, Remy N, Scott SL. 
+  Inferring causal impact using Bayesian structural time-series models. 
+  Annals of Applied Statistics, (2015), Vol. 9, No. 1, 247-274. 
+  [link](http://research.google.com/pubs/pub41854.html)
+
+* Causal inference in statistics:An overview
+  Judea Pearl. [doi](http://dx.doi.org/10.1214/09-SS057)
+
 * Rubin, D. B. (1974). Estimating causal effects of treatments 
   in randomized and nonrandomized studies. 
   Journal of Educational Psychology, 66(5), 688-701.
   [doi](http://dx.doi.org/10.1037/h0037350)
 
-* Causal inference in statistics:An overview
-  Judea Pearl. [doi](http://dx.doi.org/10.1214/09-SS057)
 
-* Brodersen KH, Gallusser F, Koehler J, Remy N, Scott SL. 
-  Inferring causal impact using Bayesian structural time-series models. 
-  Annals of Applied Statistics, 2015, Vol. 9, No. 1, 247-274. 
-  [link](http://research.google.com/pubs/pub41854.html)
 
 ## Software
 
