@@ -16,6 +16,7 @@ Set of documents such as resource lists, quotes or short articles.
 * [resource_list](doc/resource_list.md): General resources major books, published articles and software packages such as R, Python or anyother.
 * [economy related](doc/economy.md): Economy related, specially in econometrics.
 * [physics related](doc/physics.md): Physics related, including discrete dynamical systems and information theory.
+* [climate related](doc/climate.md): Climate change related.
 
 ### Contributions
 
