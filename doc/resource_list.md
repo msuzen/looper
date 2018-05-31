@@ -49,8 +49,12 @@ Reverse chronological order
   Annals of Applied Statistics, (2015), Vol. 9, No. 1, 247-274. 
   [link](http://research.google.com/pubs/pub41854.html)
 
-* Causal inference in statistics:An overview
-  Judea Pearl. [doi](http://dx.doi.org/10.1214/09-SS057)
+* Introduction to Causal Inference
+  Peter Spirtes
+  (2010) [jmlr](http://www.jmlr.org/papers/v11/spirtes10a.html)
+
+* Causal inference in statistics:An overview 
+  Judea Pearl. (2009) [doi](http://dx.doi.org/10.1214/09-SS057)
 
 * Rubin, D. B. (1974). Estimating causal effects of treatments 
   in randomized and nonrandomized studies. 
