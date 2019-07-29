@@ -58,6 +58,11 @@ Reverse chronological order, both technical and popular.
   from the Causal Revolution, Judea Pearl
   [arXiv:1801.04016](https://arxiv.org/abs/1801.04016)
 
+* Automated versus do-it-yourself methods for causal inference: 
+  Lessons learned from a data analysis competition
+  Vincent Dorie†, Jennifer Hill, Uri Shalit, Marc Scott, and Dan Cervone
+  [https://arxiv.org/pdf/1707.02641.pdf](https://arxiv.org/pdf/1707.02641.pdf)
+  
 * Brodersen KH, Gallusser F, Koehler J, Remy N, Scott SL. 
   Inferring causal impact using Bayesian structural time-series models. 
   Annals of Applied Statistics, (2015), Vol. 9, No. 1, 247-274. 
