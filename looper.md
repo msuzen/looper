@@ -30,7 +30,11 @@ Reverse chronological order, both technical and popular.
 
 * Causal Inference for Statistics, Social, and Biomedical Sciences: 
   An Introduction, Imbens & Rubin, (2015)
-  [amzn](https://www.amzn.com/dp/0521885884/)
+  [amzn](https://www.amzn.com/dp/0521885884)
+  
+* Inference and Intervention: Causal Models for Business Analysis
+  Michael D. Ryall and Aaron L. Bramson (2013)
+  [amzn](https://www.amzn.com/dp/0415657598)
 
 * Angrist & Pischke 
   Mostly Harmless Econometrics (2009)
