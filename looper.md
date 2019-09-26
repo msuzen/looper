@@ -17,7 +17,7 @@ Reverse chronological order, both technical and popular.
   [amzn](https://www.amzn.com/dp/067497557X/)
 
 * Jonas Peters, Dominik Janzing and Bernhard Schoelkopf
-  Elements of Causal Ingerence: Foundations and Learning Algorithms (2017)
+  Elements of Causal Inference: Foundations and Learning Algorithms (2017)
   [mitpress](https://mitpress.mit.edu/books/elements-causal-inference)
 
 * Pearl, Glymour and Jewell,
