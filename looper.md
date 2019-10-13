@@ -58,6 +58,12 @@ Reverse chronological order, both technical and popular.
 
 ## Papers
 
+* A Meta-Transfer Objective for Learning to Disentangle 
+  Causal Mechanisms
+  Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, 
+  Olexa Bilaniuk, Anirudh Goyal, Christopher Pal
+  [arXiv:1901.10912](https://arxiv.org/abs/1901.10912)
+
 * Theoretical Impediments to Machine Learning With Seven Sparks 
   from the Causal Revolution, Judea Pearl
   [arXiv:1801.04016](https://arxiv.org/abs/1801.04016)
