@@ -97,6 +97,9 @@ Reverse chronological order, both technical and popular.
 
 ## Software
 
+* Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML
+  [github](https://github.com/uber/causalml)
+
 * dagR: Directed Acyclic Graph with R
   [CRAN](https://cran.r-project.org/web/packages/dagR/index.html)[doi](http://dx.doi.org/10.1097/EDE.0b013e3181e09112)
 
