@@ -11,4 +11,4 @@
   A resource list for causality in statistics, data science and physics
   `http:github.com/msuzen/looper`. 
 
-* Please send a Pull request or create an issue for suggestions or codes. 
+* Please send a Pull request or create an issue for suggestions or codes. See [Basic how to contribute guide](contribution_guide.md)
