@@ -18,3 +18,12 @@ looper repository under our open licencse, CC-BY 4.0.
 
 * Use `src` directory and place your solution under this with a unique name.
 * Place an internal link to your directory in software section `looper.md`.
+
+## Pull request
+
+* You would need to branch/fork from master and add your contributions.
+* Add your name and possibily affiliation in `CONTRIBUTORS` file if you are not there yet.
+
+## Contribute via issue
+
+You can also contribute via creating an issue if using github is too time consuming for you.
