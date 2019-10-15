@@ -143,27 +143,6 @@ Reverse chronological order, both technical and popular.
    trying to predict counterfactual that might not exist in your data."
    Uri Shalit, Technion (Forum Communication 01/2018)
 
-*  Reply to Uri: 
-
-    "You don't have to have correlation to make a prediction in any case.  
-    Chicken entrails used to suffice, and still do some places.  
-    I would argue that chicken entrails might actually be better 
-    than relying purely upon correlation if you know nothing 
-    about any causality involved.
-
-     Only if the correlation is the result of causality will 
-     you be able to trust a prediction using correlation.  
-     This is where the "science" in "data science" usually disappears, 
-     as exemplified in your post."
-
-     Recall, Fisher himself (while employed by the tobacco industry) 
-     claimed that any link between lung cancer and smoking was mistaking 
-     correlation for causality.  Of course, Fisher, a life long smoker, 
-     died from lung cancer also.  Talk about causality bites, 
-     predicting Fisher's means of death via the correlation would 
-     have been trustable."
-     Mark Powell, Austin (Forum Communication 01/2018)
-
 ## Quotes: Rubin vs. Pearl
 
 * " Rubin and Pearl are kind of "academic enemies". 
