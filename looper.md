@@ -69,32 +69,34 @@ Reverse chronological order, both technical and popular.
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms.    
   Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, 
   Olexa Bilaniuk, Anirudh Goyal, Christopher Pal.  
-  [arXiv:1901.10912](https://arxiv.org/abs/1901.10912)
+  [arXiv](https://arxiv.org/abs/1901.10912)
 
 * Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution.  
   Judea Pearl.  
-  [arXiv:1801.04016](https://arxiv.org/abs/1801.04016)
+  [arXiv](https://arxiv.org/abs/1801.04016)
 
 * Automated versus do-it-yourself methods for causal inference:    
   Lessons learned from a data analysis competition.  
-  Vincent Dorie†, Jennifer Hill, Uri Shalit, Marc Scott, and Dan Cervone.  
-  [https://arxiv.org/pdf/1707.02641.pdf](https://arxiv.org/pdf/1707.02641.pdf)
+  Vincent Dorie†, Jennifer Hill, Uri Shalit, Marc Scott, and Dan Cervone.   
+  [arXiv](https://arxiv.org/pdf/1707.02641.pdf)
   
 * Brodersen KH, Gallusser F, Koehler J, Remy N, Scott SL.   
   Inferring causal impact using Bayesian structural time-series models.   
   Annals of Applied Statistics, (2015), Vol. 9, No. 1, 247-274.  
-  [link](http://research.google.com/pubs/pub41854.html)
+  [url](http://research.google.com/pubs/pub41854.html)
 
 * Introduction to Causal Inference.  
   Peter Spirtes.  
-  (2010) [jmlr](http://www.jmlr.org/papers/v11/spirtes10a.html). 
+  (2010)  
+  [jmlr](http://www.jmlr.org/papers/v11/spirtes10a.html). 
 
 * Causal inference in statistics: An overview.   
-  Judea Pearl. (2009) [doi](http://dx.doi.org/10.1214/09-SS057). 
+  Judea Pearl. (2009).  
+  [doi](http://dx.doi.org/10.1214/09-SS057). 
 
 * Econometric Causality.   
   James J. Heckman.  
-  International Statistical Review (2008), 76, 1, 1–27.  
+  International Statistical Review (2008), 76, 1, 1–27.    
   [doi](http://dx.doi.org/10.1111/j.1751-5823.2007.00024.x). 
   
 * Time Series Analysis, Cointegration, and applications.   
@@ -109,7 +111,7 @@ Reverse chronological order, both technical and popular.
   
 * Haavelmo, T. (1943).   
   The statistical implications of a system of simultaneous equations.  
-  Econometrica, 11, 1–12.
+  Econometrica, 11, 1–12.  
   [jstor](http://links.jstor.org/sici?sici=0012-9682%28194301%2911%3A1%3C1%3ATSIOAS%3E2.0.CO%3B2-N)
 
 
@@ -129,7 +131,7 @@ Reverse chronological order, both technical and popular.
   [Vignette](https://github.com/laurencium/causalinference/blob/master/docs/tex/vignette.pdf)
 
 * Tetrad Project: Graphical Causal Models  
-  [homepage](http://www.phil.cmu.edu/tetrad/)
+  [url](http://www.phil.cmu.edu/tetrad/)
 
 * PyPhi: A toolbox for integrated information theory.   
   [arXiv](https://arxiv.org/abs/1712.09644)
@@ -137,10 +139,10 @@ Reverse chronological order, both technical and popular.
 ## MOOCs
 
 * A Crash Course in Causality: Inferring Causal Effects from Observational Data.  
-  [link](https://www.coursera.org/learn/crash-course-in-causality)
+  [url](https://www.coursera.org/learn/crash-course-in-causality)
 
 * Measuring Causal Effects in the Social Sciences.   
-  [link](https://www.coursera.org/learn/causal-effects)
+  [url](https://www.coursera.org/learn/causal-effects)
  
 ## Quotes: Prediction and Causation
 
