@@ -49,12 +49,20 @@ Reverse chronological order, both technical and popular.
   James J. Heckman
   International Statistical Review (2008), 76, 1, 1–27 
   [doi](http://dx.doi.org/10.1111/j.1751-5823.2007.00024.x)
+
+* Fundamentals of statistical causality (2007)
+  C. A. P. Dawid
+  [pre-print](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.169.5962)
   
 * Rosenbaum  
   Observational Studies (Springer Series in Statistics) 2nd Edition  (2002)
   [amzn](https://www.amzn.com/dp/0387989676)
-
   
+* Causation, Prediction, and Search
+  Peter Spirtes, Clark Glymour and Richard Scheines
+  2nd Edition (2001)
+  [mit press](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)
+
 
 ## Papers
 
@@ -87,7 +95,7 @@ Reverse chronological order, both technical and popular.
   Peter Spirtes
   (2010) [jmlr](http://www.jmlr.org/papers/v11/spirtes10a.html)
 
-* Causal inference in statistics:An overview 
+* Causal inference in statistics: An overview 
   Judea Pearl. (2009) [doi](http://dx.doi.org/10.1214/09-SS057)
 
 * Time Series Analysis, Cointegration, and applications
@@ -104,6 +112,7 @@ Reverse chronological order, both technical and popular.
   The statistical implications of a system of simultaneous equations. 
   Econometrica, 11, 1–12.
   [jstor](http://links.jstor.org/sici?sici=0012-9682%28194301%2911%3A1%3C1%3ATSIOAS%3E2.0.CO%3B2-N)
+
 
 ## Software
 
