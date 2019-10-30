@@ -64,21 +64,21 @@ Reverse chronological order, both technical and popular.
 * The Seven Tools of Causal Inference, with Reflections on Machine Learning.  
   Judea Pearl.   
   Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60.  
-  [link](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext)
+  [url](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext)
 
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms.    
   Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, 
   Olexa Bilaniuk, Anirudh Goyal, Christopher Pal.  
-  [arXiv](https://arxiv.org/abs/1901.10912)
+  [arXiv:1901.10912](https://arxiv.org/abs/1901.10912)
 
 * Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution.  
   Judea Pearl.  
-  [arXiv](https://arxiv.org/abs/1801.04016)
+  [arXiv:1801.04016](https://arxiv.org/abs/1801.04016)
 
 * Automated versus do-it-yourself methods for causal inference:    
   Lessons learned from a data analysis competition.  
   Vincent Dorie†, Jennifer Hill, Uri Shalit, Marc Scott, and Dan Cervone.   
-  [arXiv](https://arxiv.org/pdf/1707.02641.pdf)
+  [arXiv:1707.02641](https://arxiv.org/pdf/1707.02641.pdf)
   
 * Brodersen KH, Gallusser F, Koehler J, Remy N, Scott SL.   
   Inferring causal impact using Bayesian structural time-series models.   
@@ -134,7 +134,8 @@ Reverse chronological order, both technical and popular.
   [url](http://www.phil.cmu.edu/tetrad/)
 
 * PyPhi: A toolbox for integrated information theory.   
-  [arXiv](https://arxiv.org/abs/1712.09644)
+  [pypi](https://pypi.org/project/pyphi/).  
+  [arXiv1712.09644](https://arxiv.org/abs/1712.09644)
 
 ## MOOCs
 
