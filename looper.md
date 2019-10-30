@@ -113,7 +113,16 @@ Reverse chronological order, both technical and popular.
   The statistical implications of a system of simultaneous equations.  
   Econometrica, 11, 1–12.  
   [jstor](http://links.jstor.org/sici?sici=0012-9682%28194301%2911%3A1%3C1%3ATSIOAS%3E2.0.CO%3B2-N)
-
+  
+* Wright, S. (1921)  
+  Correlation and causation.  
+  J. Agricultural Research. 20: 557–585.
+  
+* Wright, S. (1934).   
+  The method of path coefficients.  
+  Annals of Mathematical Statistics. 5 (3): 161–215.   
+  [doi](http://www.doi.org/10.1214/aoms/1177732676)
+  
 
 ## Software
 
