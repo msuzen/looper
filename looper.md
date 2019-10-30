@@ -4,14 +4,13 @@
 
 Reverse chronological order, both technical and popular.
 
-Pearl and Mackenzie.  
-The Book of Why: The New Science of Cause and Effect (2018).  
-[amzn](https://www.amzn.com/dp/046509760X)
+* Pearl and Mackenzie.  
+  The Book of Why: The New Science of Cause and Effect (2018).  
+  [amzn](https://www.amzn.com/dp/046509760X)
   
-
-Hernán & Robins.  
-Causal Inference (2018).  
-[online](http://bit.ly/2mSeeXI)
+* Hernán & Robins.  
+  Causal Inference (2018).  
+  [online](http://bit.ly/2mSeeXI)
 
 
 * Rosenbaum,
