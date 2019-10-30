@@ -11,6 +11,8 @@ looper repository under our open licencse, CC-BY 4.0.
 * There is no standard formatting except placing the title 
   and information on the resource location. It can be a doi, 
   plain url.
+  - Note that we don't use bullets but convention of placing two spaces to have line breaks.
+    See [How to insert a line break <br> in markdown](https://stackoverflow.com/questions/26626256/how-to-insert-a-line-break-br-in-markdown)
 * The sections of books and papers are in reverse-chronological order.
 * For software links, try to procide as much information as possible.
 
