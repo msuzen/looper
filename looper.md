@@ -61,6 +61,10 @@ Reverse chronological order, both technical and popular.
 
 ## Papers
 
+* Causality for Machine Learning.  
+  Bernhard Schölkopf.  
+  [arXiv:1911.10500](https://arxiv.org/abs/1911.10500)
+  
 * The Seven Tools of Causal Inference, with Reflections on Machine Learning.  
   Judea Pearl.   
   Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60.  
