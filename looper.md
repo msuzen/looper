@@ -88,6 +88,11 @@ Reverse chronological order, both technical and popular.
   Inferring causal impact using Bayesian structural time-series models.   
   Annals of Applied Statistics, (2015), Vol. 9, No. 1, 247-274.  
   [url](http://research.google.com/pubs/pub41854.html)
+  
+* Linear Models: A Useful “Microscope” for Causal Analysis.  
+  Journal of Causal Inference 2013; 1(1): 155–170.  
+  Judea Pearl.  
+  [doi](https://doi.org/10.1515/jci-2013-0003) [pdf](http://ftp.cs.ucla.edu/pub/stat_ser/r409-corrected-reprint.pdf)
 
 * Introduction to Causal Inference.  
   Peter Spirtes.  
