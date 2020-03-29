@@ -40,6 +40,12 @@ Reverse chronological order, both technical and popular.
   Mostly Harmless Econometrics (2009).  
   [amzn](https://www.amzn.com/dp/0691120358/).  
   [princeton](https://press.princeton.edu/titles/8769.html)
+  
+* Probabilistic Graphical Models: Principles and Techniques.  
+  Daphne Koller and Nir Friedman.  (2009). 
+  MIT Press.  
+  [amzn](https://www.amzn.com/dp/0262013193).  
+  [mit](https://mitpress.mit.edu/books/probabilistic-graphical-models)
 
 * Judea Perl.   
   Causality: Models, Reasoning and Inference (2009) 2nd Edition.   
