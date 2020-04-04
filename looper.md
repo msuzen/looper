@@ -67,6 +67,16 @@ Reverse chronological order, both technical and popular.
 
 ## Papers
 
+* Detecting and quantifying causal associations in large nonlinear time series datasets.  
+  Jakob Runge, Peer Nowack, Marlene Kretschmer, Seth Flaxman and Dino Sejdinovic. 
+  Science Advances  27 Nov 2019 Vol. 5, no. 11, eaau4996.  
+  [doi](http://dx.doi.org10.1126/sciadv.aau4996)
+  
+* Causal network reconstruction from time series: From theoretical assumptions to practical estimation.  
+  J. Runge.  
+  Chaos 28, 075310 (2018).   
+  [DOI](https://doi.org/10.1063/1.5025050)
+
 * Causality for Machine Learning.  
   Bernhard Schölkopf.  
   [arXiv:1911.10500](https://arxiv.org/abs/1911.10500)
@@ -89,6 +99,15 @@ Reverse chronological order, both technical and popular.
   Lessons learned from a data analysis competition.  
   Vincent Dorie†, Jennifer Hill, Uri Shalit, Marc Scott, and Dan Cervone.   
   [arXiv:1707.02641](https://arxiv.org/pdf/1707.02641.pdf)
+  
+* Quantum-Like Bayesian Networks for Modeling Decision Making.  
+  Catarina Moreira and Andreas Wichert. 
+  Front. Psychol., 26 January 2016. 
+  [doi](https://doi.org/10.3389/fpsyg.2016.00011)
+
+* The Sure-Thing Principle.  
+  Judea Pearl (2016).  
+  [pdf](https://ftp.cs.ucla.edu/pub/stat_ser/r466.pdf) 
   
 * Brodersen KH, Gallusser F, Koehler J, Remy N, Scott SL.   
   Inferring causal impact using Bayesian structural time-series models.   
@@ -138,7 +157,13 @@ Reverse chronological order, both technical and popular.
   Annals of Mathematical Statistics. 5 (3): 161–215.   
   [doi](http://www.doi.org/10.1214/aoms/1177732676)
   
+## Blog Posts
 
+* Inferring causality in time series data.   
+  Shay Palachy.  
+  [url](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46)
+  
+  
 ## Software
 
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
