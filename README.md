@@ -1,5 +1,12 @@
 # looper
 
+```
+      
+      Aspiration to learn everything from data alone has kept the ML community away from science.
+      
+      Judea Pearl
+      
+```
 The looper is aim at providing a resource list, code snippets or small scale software solutions for causal analysis in different areas. The main entry is as follows:
 
 * [A resource list for causality in statistics, data science and physics](looper.md)
