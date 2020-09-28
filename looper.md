@@ -63,6 +63,11 @@ Reverse chronological order, both technical and popular.
   Peter Spirtes, Clark Glymour and Richard Scheines.   
   2nd Edition (2001).   
   [mit press](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)
+  
+* Structural Equations with Latent Variables.  
+  Kenneth A. Bollen.  
+  [wiley](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118619179).  
+  [amzn](https://www.amzn.com/dp/0471011711).   
 
 
 ## Papers
