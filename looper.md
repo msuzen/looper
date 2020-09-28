@@ -65,7 +65,7 @@ Reverse chronological order, both technical and popular.
   [mit press](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)
   
 * Structural Equations with Latent Variables.  
-  Kenneth A. Bollen.  
+  Kenneth A. Bollen (1989).  
   [wiley](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118619179).  
   [amzn](https://www.amzn.com/dp/0471011711).   
 
