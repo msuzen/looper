@@ -1,5 +1,17 @@
 # `A resource list for causality in statistics, data science and physics.`
 
+
+##### Table of Contents  
+[Books](#books)   
+[Papers](#papers)   
+[Machine Learning](#machine-learning)  
+[Fairness](#fairness)  
+[Physics](#physics)  
+[Software](#software)  
+[MOOCs](#moocs)  
+[Quotes](#quotes)  
+
+
 ## Books
 
 Reverse chronological order, both technical and popular.   
@@ -265,7 +277,9 @@ Reverse chronological order, both technical and popular.
 * Measuring Causal Effects in the Social Sciences.   
   [url](https://www.coursera.org/learn/causal-effects)
  
-## Quotes: Prediction and Causation
+## Quotes
+
+`Prediction and Causation`
 
 * " Actually correlation lets you make predictions 
    in many cases, assuming you're making prediction 
@@ -283,7 +297,7 @@ Reverse chronological order, both technical and popular.
    trying to predict counterfactual that might not exist in your data."
    Uri Shalit, Technion (Forum Communication 01/2018)
 
-## Quotes: Rubin vs. Pearl
+`Rubin vs. Pearl`
 
 * " Rubin and Pearl are kind of "academic enemies". 
   Though neither completely dismisses the other, 
@@ -302,7 +316,7 @@ Reverse chronological order, both technical and popular.
   post there are links to follow up posts. "
   Uri Shalit, Technion (Forum Communication 01/2018)
 
-## Quotes: On the Pearl's Philosopy
+`On the Pearl's Philosopy`
 
 * "..while Pearl's work is foundational, and its importance  
   cannot be overstated, his published work is often 
