@@ -2,7 +2,12 @@
 
 ## Books
 
-Reverse chronological order, both technical and popular.
+Reverse chronological order, both technical and popular.   
+
+* Experimental Design : Causal Inference   
+  Stefan Wager.  
+  Class notes [pdf](https://statweb.stanford.edu/~owen/courses/363/stats361.pdf). 
+  [url](https://statweb.stanford.edu/~owen/courses/363/). 
 
 * Pearl and Mackenzie.  
   The Book of Why: The New Science of Cause and Effect (2018).  
@@ -22,7 +27,8 @@ Reverse chronological order, both technical and popular.
 
 * Pearl, Glymour and Jewell.  
   Causal Inference in Statistics: A Primer (2016).  
-  [amzn](https://www.amzn.com/dp/1119186846)
+  [amzn](https://www.amzn.com/dp/1119186846).   
+  [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).   
 
 * Morgan & Winship.  
   Counterfactuals and Causal Inference (2nd edition) (2015).  
@@ -70,21 +76,25 @@ Reverse chronological order, both technical and popular.
   [amzn](https://www.amzn.com/dp/0471011711).   
 
 
-## Papers
+## Papers 
+
+*  Neural spiking for causal inference.  
+   Benjamin James Lansdell, Konrad Paul Kording.  (2020)
+   [doi](https://doi.org/10.1101/253351)
 
 * Detecting and quantifying causal associations in large nonlinear time series datasets.  
   Jakob Runge, Peer Nowack, Marlene Kretschmer, Seth Flaxman and Dino Sejdinovic. 
   Science Advances  27 Nov 2019 Vol. 5, no. 11, eaau4996.  
   [doi](http://dx.doi.org10.1126/sciadv.aau4996)
-  
+
+* Causal Inference and Data-Fusion in Econometrics.  
+  Paul Hünermund (Maastricht University), Elias Bareinboim (Columbia University).   
+  [arXiv:1912.09104](https://arxiv.org/abs/1912.09104).   
+
 * Causal network reconstruction from time series: From theoretical assumptions to practical estimation.  
   J. Runge.  
   Chaos 28, 075310 (2018).   
   [DOI](https://doi.org/10.1063/1.5025050)
-
-* Causality for Machine Learning.  
-  Bernhard Schölkopf.  
-  [arXiv:1911.10500](https://arxiv.org/abs/1911.10500)
   
 * The Seven Tools of Causal Inference, with Reflections on Machine Learning.  
   Judea Pearl.   
@@ -133,10 +143,15 @@ Reverse chronological order, both technical and popular.
   Keynote AI Uncertainy Conference (2012).  
   [pdf](https://ftp.cs.ucla.edu/pub/stat_ser/r402.pdf)
 
-* Introduction to Causal Inference.  
+* Introduction to Causal Inference.   
   Peter Spirtes.  
   (2010)  
-  [jmlr](http://www.jmlr.org/papers/v11/spirtes10a.html). 
+  [jmlr](http://www.jmlr.org/papers/v11/spirtes10a.html).   
+
+*  Transfer entropy—a model-free measure of effective connectivity for the neurosciences.   
+   Vicente et. al.   
+   J Comput Neurosci (2011) 30:45–67.     
+   [pdf](https://link.springer.com/content/pdf/10.1007/s10827-010-0262-3.pdf).   
 
 * Causal inference in statistics: An overview.   
   Judea Pearl. (2009).  
@@ -152,26 +167,74 @@ Reverse chronological order, both technical and popular.
   (2003)  
   [pdf](https://www.nobelprize.org/uploads/2018/06/granger-lecture.pdf)
 
+* Causal Complexity and the Study of Politics.   
+  Bear Braumoeller.   
+  Political Analysis 198(11):209-233.   
+  [doi](http://dx/doi.org/10.1093/pan/mpg012).   
+  [researchgate-url](https://www.researchgate.net/publication/228774938_Causal_Complexity_and_the_Study_of_Politics).  
+
 * Rubin, D. B. (1974)   
   Estimating causal effects of treatments in randomized and nonrandomized studies.    
   Journal of Educational Psychology, 66(5), 688-701.  
   [doi](http://dx.doi.org/10.1037/h0037350)
-  
+
 * Haavelmo, T. (1943).   
   The statistical implications of a system of simultaneous equations.  
   Econometrica, 11, 1–12.  
   [jstor](http://links.jstor.org/sici?sici=0012-9682%28194301%2911%3A1%3C1%3ATSIOAS%3E2.0.CO%3B2-N)
   
+  Judea Pearls comment on Haavelmo.   
+  Econometric Theory , Volume 31 , Issue 1: Haavelmo Memorial Issue: Part One , February 2015 , pp. 152 - 179
+  [doi](https://doi.org/10.1017/S0266466614000231).    
+
 * Wright, S. (1921)  
   Correlation and causation.  
   J. Agricultural Research. 20: 557–585.
-  
+
 * Wright, S. (1934).   
   The method of path coefficients.  
   Annals of Mathematical Statistics. 5 (3): 161–215.   
   [doi](http://www.doi.org/10.1214/aoms/1177732676)
 
+## Machine Learning
+
+* Sample-Efficient Reinforcement Learning via Counterfactual-Based Data Augmentation.  
+  Chaochao Lu, Biwei Huang, Ke Wang, José Miguel Hernández-Lobato, Kun Zhang, Bernhard Schölkopf.  (2020).     
+  [arXiv:2012.09092](https://arxiv.org/abs/2012.09092)
   
+* Causality for Machine Learning.  
+  Bernhard Schölkopf.  
+  [arXiv:1911.10500](https://arxiv.org/abs/1911.10500)
+  
+* Causal Inference and Uplift Modelling: A Review of the Literature.   
+  Pierre Gutierrez, Jean-Yves Gérardy ; Proceedings of The 3rd International    
+  Conference on Predictive Applications and APIs, PMLR 67:1-13, 2017.   
+  [url](http://proceedings.mlr.press/v67/gutierrez17a.html)
+
+## Fairness 
+
+* Achieving Causal Fairness in Machine Learning.   
+  Wu, Yongkai. University of Arkansas, ProQuest Dissertations Publishing, 2020. 27960037.   
+  [url](https://search.proquest.com/openview/5b94283bd4da8edc1b14bff3db4c9e77/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+* Causal Bayesian Networks (2019).    
+  [blog-deepmind](https://deepmind.com/blog/article/Causal_Bayesian_Networks).   
+
+* A Causal Bayesian Networks Viewpoint on Fairness.      
+  Silvia Chiappa, William S. Isaac (2019).    
+  [arXiv:1907.06430](https://arxiv.org/abs/1907.06430)    
+
+* Counterfactual Fairness.    
+  Kusner et. al.   
+  NeurIPs 2017 [pdf](https://proceedings.neurips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)
+  
+## Physics
+
+* Causal Entropic Forces.    
+  A. D. Wissner-Gross and C. E. Freer.   
+  Phys. Rev. Lett. 110, 168702.        
+  [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702).   
+
 ## Software
 
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
@@ -196,7 +259,7 @@ Reverse chronological order, both technical and popular.
 
 ## MOOCs
 
-* A Crash Course in Causality: Inferring Causal Effects from Observational Data.  
+* A Crash Course in Causality: Inferring Causal Effects from Observational Data.    
   [url](https://www.coursera.org/learn/crash-course-in-causality)
 
 * Measuring Causal Effects in the Social Sciences.   
