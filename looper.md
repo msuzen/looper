@@ -124,6 +124,15 @@ Reverse chronological order, both technical and popular.
   Judea Pearl.  
   [doi](https://doi.org/10.1515/jci-2013-0003) [pdf](http://ftp.cs.ucla.edu/pub/stat_ser/r409-corrected-reprint.pdf)
 
+* Introduction to Judea Pearl's Do-Calculus.   
+  Robert R. Tucci. (2013)
+  [arXiv:1305.5506](https://arxiv.org/abs/1305.5506)
+
+* The Do-Calculus Revisited.  
+  Judea Pearl.   
+  Keynote AI Uncertainy Conference (2012).  
+  [pdf](https://ftp.cs.ucla.edu/pub/stat_ser/r402.pdf)
+
 * Introduction to Causal Inference.  
   Peter Spirtes.  
   (2010)  
@@ -161,13 +170,7 @@ Reverse chronological order, both technical and popular.
   The method of path coefficients.  
   Annals of Mathematical Statistics. 5 (3): 161–215.   
   [doi](http://www.doi.org/10.1214/aoms/1177732676)
-  
-## Blog Posts
 
-* Inferring causality in time series data.   
-  Shay Palachy.  
-  [url](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46)
-  
   
 ## Software
 
