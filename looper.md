@@ -67,7 +67,7 @@ Reverse chronological order, both technical and popular.
 
 * Judea Perl.   
   Causality: Models, Reasoning and Inference (2009) 2nd Edition.   
-  [amzn](https://www.amz.com/dp/052189560X). 
+  [amzn](https://www.amzn.com/dp/052189560X).  
 
 * Fundamentals of statistical causality (2007).   
   C. A. P. Dawid.  
