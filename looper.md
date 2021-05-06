@@ -181,9 +181,14 @@ Reverse chronological order, both technical and popular.
 
 * Causal Complexity and the Study of Politics.   
   Bear Braumoeller.   
-  Political Analysis 198(11):209-233.   
+  Political Analysis 198(11):209-233 (2003).   
   [doi](http://dx/doi.org/10.1093/pan/mpg012).   
   [researchgate-url](https://www.researchgate.net/publication/228774938_Causal_Complexity_and_the_Study_of_Politics).  
+
+*  Paul W. Holland.  
+   Statistics and Causal Inference.  
+   Journal of the American Statistical Association.  
+   Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064). 
 
 * Rubin, D. B. (1974)   
   Estimating causal effects of treatments in randomized and nonrandomized studies.    
