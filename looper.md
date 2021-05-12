@@ -254,6 +254,9 @@ Reverse chronological order, both technical and popular.
 
 ## Software
 
+* DoWhy is a Python library for causal inference, Microsoft
+  [github](https://github.com/microsoft/dowhy)
+  
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
   [github](https://github.com/uber/causalml)
 
