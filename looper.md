@@ -250,11 +250,17 @@ Reverse chronological order, both technical and popular.
 * Causal Entropic Forces.    
   A. D. Wissner-Gross and C. E. Freer.   
   Phys. Rev. Lett. 110, 168702.        
-  [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702).   
+  [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702).  
+
+* The class of continuous timelike curves determines the topology of spacetime.   
+  David B. Malament.  
+  Journal of Mathematical Physics 18, 1399 (1977).   
+  [doi](https://doi.org/10.1063/1.523436)
+
 
 ## Software
 
-* DoWhy is a Python library for causal inference, Microsoft
+* DoWhy is a Python library for causal inference, Microsoft. 
   [github](https://github.com/microsoft/dowhy)
   
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
