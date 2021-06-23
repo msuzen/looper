@@ -16,6 +16,10 @@
 
 Reverse chronological order, both technical and popular.   
 
+* Brady Neal.   
+  Introduction to Causal Inference from a Machine Learning Perspective. (2020).  
+  [pdf](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) 
+
 * Experimental Design : Causal Inference   
   Stefan Wager.  
   Class notes [pdf](https://statweb.stanford.edu/~owen/courses/363/stats361.pdf). 
