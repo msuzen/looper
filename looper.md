@@ -3,7 +3,8 @@
 
 ##### Table of Contents  
 [Books](#books)   
-[Papers](#papers)   
+[Papers](#papers)  
+[Simpson's Paradox](#simpsons-paradox)   
 [Machine Learning](#machine-learning)  
 [Fairness](#fairness)  
 [Physics](#physics)  
@@ -216,6 +217,12 @@ Reverse chronological order, both technical and popular.
   The method of path coefficients.  
   Annals of Mathematical Statistics. 5 (3): 161–215.   
   [doi](http://www.doi.org/10.1214/aoms/1177732676)
+
+## Simpsons Paradox
+
+* Simpson's Paradox: An Anatomy    
+  Judea Pearl (1999). 
+  [UCLA Technical-Report](http://bayes.cs.ucla.edu/R264.pdf)
 
 ## Machine Learning
 
