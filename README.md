@@ -1,13 +1,19 @@
 # looper
 
+Our honour to be mentioned by Judea Pearl on [twitter](https://twitter.com/ceobillionaire/status/1388630546797023232).
+
 ```
-      
+ 
       Aspiration to learn everything from data alone has kept the ML community away from science.
       
       Judea Pearl
       
 ```
-The looper is aim at providing a resource list, code snippets or small scale software solutions for causal analysis in different areas. The main entry is as follows:
+
+The looper is aim at providing a resource list, code snippets or small scale software solutions for causal analysis in different areas. 
+
+
+he main entry is as follows:
 
 * [A resource list for causality in statistics, data science and physics](looper.md)
   Other  fields of course such as econometrics, epidemiology and many more.
@@ -37,3 +43,4 @@ in `howpublished` tag.
 ## Contributions
 
 Please send a pull request or create an issue for suggestions or codes. See [Basic how to contribute guide](contribution_guide.md)
+
