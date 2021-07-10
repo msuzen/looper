@@ -1,4 +1,4 @@
-# looper
+# looper : A resource list for causality in statistics, data science and physics
 
 Our honour to be mentioned by Judea Pearl on [twitter](https://twitter.com/ceobillionaire/status/1388630546797023232).
 
@@ -12,9 +12,10 @@ Our honour to be mentioned by Judea Pearl on [twitter](https://twitter.com/ceobi
 ```
 
 The looper is aim at providing a resource list, code snippets or small scale software solutions for causal analysis in different areas. 
+It's name is inspired from brialliant movie [looper](https://en.wikipedia.org/wiki/Looper_(film)), which has a premise of time-like curve.
 
-
-he main entry is as follows:
+The main entry is a markdown file as follows, any looper specific internal examples 
+are lined there too : 
 
 * [A resource list for causality in statistics, data science and physics](looper.md)
   Other  fields of course such as econometrics, epidemiology and many more.
