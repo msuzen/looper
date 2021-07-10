@@ -10,6 +10,7 @@
 [Physics](#physics)  
 [Software](#software)  
 [MOOCs](#moocs)  
+[blog](#blog)
 [Quotes](#quotes)  
 
 
@@ -314,6 +315,11 @@ Reverse chronological order, both technical and popular.
 * Measuring Causal Effects in the Social Sciences.   
   [url](https://www.coursera.org/learn/causal-effects)
  
+## Blog
+
+* Resolving disputes between J. Pearl and D. Rubin on causal inference.     
+  Gelman (2009) [url](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/).   
+
 ## Quotes
 
 `Prediction and Causation`
