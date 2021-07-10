@@ -226,6 +226,10 @@ Reverse chronological order, both technical and popular.
 
 ## Machine Learning
 
+* Causal Reinforcement Learning using Observational and Interventional Data.     
+  Maxime Gasse, Damien Grasset, Guillaume Gaudron, Pierre-Yves Oudeyer.    
+  [arXiv:2106.14421](https://arxiv.org/abs/2106.14421)
+
 * Sample-Efficient Reinforcement Learning via Counterfactual-Based Data Augmentation.  
   Chaochao Lu, Biwei Huang, Ke Wang, José Miguel Hernández-Lobato, Kun Zhang, Bernhard Schölkopf.  (2020).     
   [arXiv:2012.09092](https://arxiv.org/abs/2012.09092)
