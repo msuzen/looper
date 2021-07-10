@@ -159,6 +159,12 @@ Reverse chronological order, both technical and popular.
   Judea Pearl.   
   Keynote AI Uncertainy Conference (2012).  
   [pdf](https://ftp.cs.ucla.edu/pub/stat_ser/r402.pdf)
+  
+* Detecting causality in complex ecosystems.  
+  George Sugihara, Robert May, Hao Ye, Chih-hao Hsieh, Ethan Deyle, Michael Fogarty, Stephan Munch. 
+  Science Oct 26;338(6106):496-500 (2012). 
+  [doi](https://doi.org/10.1126/science.1227079).  
+  `convergent cross-mapping`
 
 * Introduction to Causal Inference.   
   Peter Spirtes.  
