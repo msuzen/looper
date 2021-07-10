@@ -4,7 +4,8 @@ Our honour to be mentioned by Judea Pearl on [twitter](https://twitter.com/ceobi
 
 ```
  
-      Aspiration to learn everything from data alone has kept the ML community away from science.
+      Aspiration to learn everything from data alone has 
+      kept the ML community away from science.
       
       Judea Pearl
       
