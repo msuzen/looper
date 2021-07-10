@@ -314,6 +314,10 @@ Reverse chronological order, both technical and popular.
 
 * Measuring Causal Effects in the Social Sciences.   
   [url](https://www.coursera.org/learn/causal-effects)
+  
+* Probabilistic Graphical Models Specialization.  
+  Daphne Koller.     
+  [url](https://www.coursera.org/specializations/probabilistic-graphical-models) 
 
 ## Blog Posts
 
