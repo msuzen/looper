@@ -11,12 +11,9 @@ Our honour to be mentioned by Judea Pearl on [twitter](https://twitter.com/ceobi
       
 ```
 
-The looper is aim at providing a resource list, code snippets or small scale software solutions for causal analysis in different areas.  
-It's name is inspired from the movie [looper](https://en.wikipedia.org/wiki/Looper_(film)), which has a premise of time-like loops,  
-probably the most complex causal subject from physics point of view.
+The looper is aim at providing a resource list, code snippets or small scale software solutions for causal analysis in different areas. It's name is inspired from the movie [looper](https://en.wikipedia.org/wiki/Looper_(film)), which has a premise of time-like loops, probably the most complex causal subject from physics point of view.
 
-The main entry is a markdown file as follows, any looper specific internal examples 
-are lined there too : 
+The main entry is a markdown file as follows, any looper specific internal examples are lined there too : 
 
 * [A resource list for causality in statistics, data science and physics](looper.md)
   Other  fields of course such as econometrics, epidemiology and many more.
