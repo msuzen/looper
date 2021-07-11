@@ -323,6 +323,9 @@ Reverse chronological order, both technical and popular.
 
 * Resolving disputes between J. Pearl and D. Rubin on causal inference.        
   Gelman (2009) [url](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/).   
+  Follow ups [1](https://statmodeling.stat.columbia.edu/2009/07/07/more_on_pearls/)
+  [2](https://statmodeling.stat.columbia.edu/2009/07/09/more_on_pearlru/)
+  [3](https://statmodeling.stat.columbia.edu/2009/07/07/philip_dawids_t/)
 
 ## Quotes
 
