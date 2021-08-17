@@ -185,6 +185,13 @@ Reverse chronological order, both technical and popular.
   James J. Heckman.  
   International Statistical Review (2008), 76, 1, 1–27.    
   [doi](http://dx.doi.org/10.1111/j.1751-5823.2007.00024.x). 
+
+* Causal Inference Using Potential Outcomes: Design, Modeling, Decisions.        
+  Donald B. Rubin.      
+  Journal of the American Statistical Association.          
+  Vol. 100, No. 469 (Mar., 2005), pp. 322-331.          
+  [jstor](https://www.jstor.org/stable/27590541).   
+  [pdf-tandfonline](https://www.tandfonline.com/doi/pdf/10.1198/016214504000001880?casa_token=uQtd_czuZDEAAAAA:uh_ziMbrAJflEo1a5JbkhZauwazlpmdJKkbo0zRHRBlzBWx7CnS4GZAttMPyOVqow70mUycX0lmwgg)
   
 * Time Series Analysis, Cointegration, and applications.   
   Nobel Lecture of Clive Granger.  
