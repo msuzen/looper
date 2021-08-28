@@ -4,6 +4,7 @@
 ##### Table of Contents  
 [Books](#books)   
 [Papers](#papers)  
+[Causal Discovery](#causal-discovery)
 [Simpson's Paradox](#simpsons-paradox)   
 [Machine Learning](#machine-learning)  
 [Fairness](#fairness)  
@@ -231,6 +232,10 @@ Reverse chronological order, both technical and popular.
   The method of path coefficients.  
   Annals of Mathematical Statistics. 5 (3): 161–215.   
   [doi](http://www.doi.org/10.1214/aoms/1177732676)
+
+## Causal Discovery
+
+* Cosma Shalizi's notebook [causal discovery algorithms](http://bactra.org/notebooks/causal-discovery-algorithms.html).    
 
 ## Simpsons Paradox
 
