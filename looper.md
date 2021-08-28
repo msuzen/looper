@@ -4,7 +4,7 @@
 ##### Table of Contents  
 [Books](#books)   
 [Papers](#papers)  
-[Causal Discovery](#causal-discovery)
+[Causal Discovery](#causal-discovery)       
 [Simpson's Paradox](#simpsons-paradox)   
 [Machine Learning](#machine-learning)  
 [Fairness](#fairness)  
