@@ -42,7 +42,7 @@ Reverse chronological order, both technical and popular.
 
 * Jonas Peters, Dominik Janzing and Bernhard Schoelkopf.   
   Elements of Causal Inference: Foundations and Learning Algorithms (2017).  
-  [mitpress](https://mitpress.mit.edu/books/elements-causal-inference).  
+  [mitpress](https://mitpress.mit.edu/books/elements-causal-inference) | [pdf](https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf).  
 
 * Pearl, Glymour and Jewell.  
   Causal Inference in Statistics: A Primer (2016).  
