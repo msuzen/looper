@@ -298,6 +298,9 @@ Reverse chronological order, both technical and popular.
 
 ## Software
 
+* upliftml : Uplift modelling, Booking.com
+  [github](https://github.com/bookingcom/upliftml)
+
 * DoWhy is a Python library for causal inference, Microsoft. 
   [github](https://github.com/microsoft/dowhy)
   
