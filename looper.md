@@ -19,9 +19,16 @@
 
 Reverse chronological order, both technical and popular.   
 
+* Hernán & Robins.  
+  Causal Inference: What If (2020).  
+  CRC Press.   
+  [online](http://bit.ly/2mSeeXI) | [pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/01/ciwhatif_hernanrobins_31dec20.pdf).  
+
 * Brady Neal.   
   Introduction to Causal Inference from a Machine Learning Perspective. (2020).  
   [pdf](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) 
+  
+* Hernán MA, Robins JM (2020). Causal Inference: What If. Boca Raton: Chapman & Hall/CRC.”
 
 * Experimental Design : Causal Inference   
   Stefan Wager.  
@@ -31,10 +38,6 @@ Reverse chronological order, both technical and popular.
 * Pearl and Mackenzie.  
   The Book of Why: The New Science of Cause and Effect (2018).  
   [amzn](https://www.amzn.com/dp/046509760X)
-  
-* Hernán & Robins.  
-  Causal Inference (2018).  
-  [online](http://bit.ly/2mSeeXI)
 
 * Rosenbaum.  
   Observation and Experiment: An Introduction to Causal Inference (2017).  
