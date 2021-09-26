@@ -309,6 +309,11 @@ Reverse chronological order, both technical and popular.
 
 * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
 
+* EconML    
+  EconML is a Python package for estimating heterogeneous treatment  
+  effects from observational data via machine learning. 
+  [github](https://github.com/microsoft/EconML)
+
 * dagR: Directed Acyclic Graph with R.  
   [CRAN](https://cran.r-project.org/web/packages/dagR/index.html)[doi](http://dx.doi.org/10.1097/EDE.0b013e3181e09112)
 
