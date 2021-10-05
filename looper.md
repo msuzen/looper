@@ -239,6 +239,11 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* Causal Discovery via Reproducing Kernel Hilbert Space Embeddings       
+  Zhitang Chen, Kun Zhang, Laiwan Chan, Bernhard Schölkopf     
+  Neural Computation 26, 1484–1517   
+  [doi](http://dx.doi.org/10.1162/NECO_a_00599)   
+  
 * Cosma Shalizi's notebook [causal discovery algorithms](http://bactra.org/notebooks/causal-discovery-algorithms.html).    
 
 ## Simpsons Paradox
