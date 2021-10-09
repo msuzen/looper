@@ -3,7 +3,7 @@
 
 ##### Table of Contents  
 [Books](#books)   
-[Papers](#papers)  
+[Papers general](#papers-general)  
 [Causal Discovery](#causal-discovery)       
 [Simpson's Paradox](#simpsons-paradox)   
 [Machine Learning](#machine-learning)  
