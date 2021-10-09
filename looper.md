@@ -98,7 +98,7 @@ Reverse chronological order, both technical and popular.
   [amzn](https://www.amzn.com/dp/0471011711).   
 
 
-## Papers 
+## Papers general 
 
 *  Neural spiking for causal inference.  
    Benjamin James Lansdell, Konrad Paul Kording.  (2020)
