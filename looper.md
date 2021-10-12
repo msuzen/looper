@@ -362,6 +362,10 @@ Reverse chronological order, both technical and popular.
   
 * Judea Pearl on Potential Outcomes.  
   [url](http://causality.cs.ucla.edu/blog/index.php/2012/12/03/judea-pearl-on-potential-outcomes/)
+  
+* Judea Pearl, model vs. model-free :   
+  "...no “causal interpretation” is needed for parameters that are intrinsically causal..."    
+  [url](http://causality.cs.ucla.edu/blog/index.php/2017/02/22/winter-2017-greeting-from-ucla-causality-blog/).   
 
 ## Quotes
 
