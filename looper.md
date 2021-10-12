@@ -355,6 +355,9 @@ Reverse chronological order, both technical and popular.
   Follow ups [1](https://statmodeling.stat.columbia.edu/2009/07/07/more_on_pearls/)
   [2](https://statmodeling.stat.columbia.edu/2009/07/09/more_on_pearlru/)
   [3](https://statmodeling.stat.columbia.edu/2009/07/07/philip_dawids_t/)
+  
+* Judea Pearl on Potential Outcomes.  
+  [url](http://causality.cs.ucla.edu/blog/index.php/2012/12/03/judea-pearl-on-potential-outcomes/)
 
 ## Quotes
 
