@@ -239,6 +239,10 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* Nobel Memorial Economics Prize 2021 on causal discovery, scientific summary.     
+  Answering Causal Questions Using Observational Data.   
+  [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).  
+  
 * Causal Discovery via Reproducing Kernel Hilbert Space Embeddings       
   Zhitang Chen, Kun Zhang, Laiwan Chan, Bernhard Schölkopf     
   Neural Computation 26, 1484–1517   
