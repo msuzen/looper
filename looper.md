@@ -13,6 +13,7 @@
 [MOOCs](#moocs)  
 [Blog Posts](#blog-posts)  
 [Quotes](#quotes)  
+[Video Lectures](#video-lectures)
 
 
 ## Books
@@ -417,3 +418,8 @@ Reverse chronological order, both technical and popular.
   This is especially true if the data is high-dimensional 
    or noisy (Pearl usually considers a few binary or Gaussian variables)."
   Uri Shalit, Technion (Forum Communication 01/2018)
+
+## Video Lectures 
+
+* 2012 Causal Inference Conference Featuring Judea Pearl [youtube](https://www.youtube.com/watch?v=j4JOR-PQuqQ&t=4822s).         
+  Judea Pearl's "The Mathematics of Causal Inference: Use it or Lose It"    
