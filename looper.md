@@ -301,10 +301,17 @@ Reverse chronological order, both technical and popular.
 * The class of continuous timelike curves determines the topology of spacetime.   
   David B. Malament.  
   Journal of Mathematical Physics 18, 1399 (1977).   
-  [doi](https://doi.org/10.1063/1.523436)
+  [doi](https://doi.org/10.1063/1.523436).  
 
 
-## Software
+## Software.  
+
+* cause2e: A Python package for end-to-end causal analysis.    
+  [github](https://github.com/MLResearchAtOSRAM/cause2e).    
+
+* The Causal Discovery Toolbox.    
+  A package for causal inference in graphs and in the pairwise settings.            
+  [github](https://github.com/FenTechSolutions/CausalDiscoveryToolbox).      
 
 * upliftml : Uplift modelling, Booking.com
   [github](https://github.com/bookingcom/upliftml)
