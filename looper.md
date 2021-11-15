@@ -49,7 +49,7 @@ Reverse chronological order, both technical and popular.
 * Pearl, Glymour and Jewell.  
   Causal Inference in Statistics: A Primer (2016).  
   [amzn](https://www.amzn.com/dp/1119186846).   
-  [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).   
+  [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).    
 
 * Morgan & Winship.  
   Counterfactuals and Causal Inference (2nd edition) (2015).  
@@ -305,6 +305,8 @@ Reverse chronological order, both technical and popular.
 
 
 ## Software.  
+
+* Primier, self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)
 
 * cause2e: A Python package for end-to-end causal analysis.    
   [github](https://github.com/MLResearchAtOSRAM/cause2e).    
