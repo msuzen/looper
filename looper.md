@@ -23,7 +23,8 @@ Reverse chronological order, both technical and popular.
 * Hernán & Robins.  
   Causal Inference: What If (2020).  
   CRC Press.   
-  [online](http://bit.ly/2mSeeXI) | [pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/01/ciwhatif_hernanrobins_31dec20.pdf).  
+  [online](http://bit.ly/2mSeeXI) | [pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2021/01/ciwhatif_hernanrobins_31dec20.pdf).    
+  [python supplement](https://github.com/jrfiedler/causal_inference_python_code)
 
 * Brady Neal.   
   Introduction to Causal Inference from a Machine Learning Perspective. (2020).  
