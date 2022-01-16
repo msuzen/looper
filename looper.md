@@ -20,9 +20,10 @@
 
 Reverse chronological order, both technical and popular.   
 
-* Nick Huntington-Klein.    
-  The Effect: An Introduction to Research Design and Causality (2021).    
-  [bookdown](https://theeffectbook.net/index.html) | [amzn](https://amzn.com/dp/1032125780)
+* Nick Huntington-Klein.     
+  The Effect: An Introduction to Research Design and Causality (2021).        
+  [bookdown](https://theeffectbook.net/index.html) | [amzn](https://amzn.com/dp/1032125780).      
+  [code-supplement](https://github.com/NickCH-K/causalbook) | [datasets-R](https://cran.r-project.org/web/packages/causaldata/index.html).    
   
 * Hernán & Robins.  
   Causal Inference: What If (2020).  
