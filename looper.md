@@ -1,6 +1,5 @@
 # `A resource list for causality in statistics, data science and physics.`
 
-
 ##### Table of Contents  
 [Books](#books)   
 [Papers general](#papers-general)  
@@ -15,10 +14,13 @@
 [Quotes](#quotes)  
 [Video Lectures](#video-lectures)
 
-
-## Books
+## Books  
 
 Reverse chronological order, both technical and popular.   
+
+* Probabilistic and Causal Inference: The Works of Judea Pearl.  (2022)    
+  Editors: Hector Geffner,Rina Dechter,Joseph Y. Halpern.   
+  ACM Books [doi](https://dl.acm.org/doi/book/10.1145/3501714).   
 
 * Nick Huntington-Klein.     
   The Effect: An Introduction to Research Design and Causality (2021).        
