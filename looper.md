@@ -106,10 +106,11 @@ Reverse chronological order, both technical and popular.
 
 
 ## Papers general 
-
-*  Neural spiking for causal inference.  
-   Benjamin James Lansdell, Konrad Paul Kording.  (2020)
-   [doi](https://doi.org/10.1101/253351)
+   
+* Why Propensity Scores Should Not Be Used for Matching      
+  King et. al.   
+  Political Analysis, 27, 4, Pp. 435-454.    
+  [url](https://tinyurl.com/y5b5yjxo)
 
 * Detecting and quantifying causal associations in large nonlinear time series datasets.  
   Jakob Runge, Peer Nowack, Marlene Kretschmer, Seth Flaxman and Dino Sejdinovic. 
