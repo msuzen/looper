@@ -107,6 +107,10 @@ Reverse chronological order, both technical and popular.
 
 ## Papers general 
    
+* From Statistical to Causal Learning.   
+  Bernhard Schölkopf, Julius von Kügelgen    
+  [arXiv](https://arxiv.org/abs/2204.00607) (2022)
+   
 * Why Propensity Scores Should Not Be Used for Matching      
   King et. al.   
   Political Analysis, 27, 4, Pp. 435-454.    
