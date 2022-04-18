@@ -115,6 +115,12 @@ Reverse chronological order, both technical and popular.
   Ying Jin, Zhimei Ren, Emmanuel J. Candès. (2021).     
   [arXiv](https://arxiv.org/abs/2111.12161). | [Rpackage](https://zhimeir.github.io/cfsensitivity/index.html)
 
+* Potential Outcome and Directed Acyclic Graph Approaches to Causality:    
+  Relevance for Empirical Practice in Economics.    
+  Guido W. Imbens.   
+  Journal of Economic Literature (December 2020).   
+  [journal](https://www.aeaweb.org/articles?id=10.1257/jel.20191597) | [arXiv](https://arxiv.org/abs/1907.07271) | [Pearl's response](http://causality.cs.ucla.edu/blog/index.php/category/imbens/)
+
 * Why Propensity Scores Should Not Be Used for Matching      
   King et. al.   
   Political Analysis, 27, 4, Pp. 435-454.  (2019)
