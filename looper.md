@@ -111,9 +111,13 @@ Reverse chronological order, both technical and popular.
   Bernhard Schölkopf, Julius von Kügelgen    
   [arXiv](https://arxiv.org/abs/2204.00607) (2022)
    
+* Sensitivity Analysis of Individual Treatment Effects: A Robust Conformal Inference Approach.   
+  Ying Jin, Zhimei Ren, Emmanuel J. Candès. (2021).     
+  [arXiv](https://arxiv.org/abs/2111.12161). | [Rpackage](https://zhimeir.github.io/cfsensitivity/index.html)
+
 * Why Propensity Scores Should Not Be Used for Matching      
   King et. al.   
-  Political Analysis, 27, 4, Pp. 435-454.    
+  Political Analysis, 27, 4, Pp. 435-454.  (2019)
   [url](https://tinyurl.com/y5b5yjxo)
 
 * Detecting and quantifying causal associations in large nonlinear time series datasets.  
