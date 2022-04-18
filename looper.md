@@ -280,13 +280,17 @@ Reverse chronological order, both technical and popular.
 
 ## Machine Learning
 
+* Evaluating Uses of Deep Learning Methods for Causal Inference.    
+  Albert Whata; Charles Chimedza.   
+  [ieee](https://ieeexplore.ieee.org/abstract/document/9667520). (2022)   
+
 * Explainable Reinforcement Learning Through a Causal Lens.    
   Prashan Madumal.   
-  PhD thesis, Australia [pdf](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/0730665b-be59-5e97-9eb8-33223bf6464c/content) | [aaai](https://ojs.aaai.org//index.php/AAAI/article/view/5631).     
+  PhD thesis, Australia [pdf](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/0730665b-be59-5e97-9eb8-33223bf6464c/content) | [aaai](https://ojs.aaai.org//index.php/AAAI/article/view/5631).  (2021). 
 
 * Causal Reinforcement Learning using Observational and Interventional Data.     
   Maxime Gasse, Damien Grasset, Guillaume Gaudron, Pierre-Yves Oudeyer.    
-  [arXiv:2106.14421](https://arxiv.org/abs/2106.14421)
+  [arXiv:2106.14421](https://arxiv.org/abs/2106.14421) (2021)
 
 * Causal Reinforcement Learning, ICML 2020 [url](https://crl.causalai.net)
 
