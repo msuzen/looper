@@ -261,6 +261,11 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* Learning to Induce Causal Structure.     
+  Nan Rosemary Ke, Silvia Chiappa, Jane Wang, Jorg Bornschein, Theophane Weber,     
+  Anirudh Goyal, Matthew Botvinic, Michael Mozer, Danilo Jimenez Rezende.    
+  [arXiv](https://arxiv.org/abs/2204.04875) (2022).   
+
 * Nobel Memorial Economics Prize 2021 on causal discovery, scientific summary.     
   Answering Causal Questions Using Observational Data.   
   [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).  
