@@ -467,5 +467,9 @@ Reverse chronological order, both technical and popular.
 
 ## Video Lectures 
 
+* 2022 The Arrow of Time in Causal Networks
+  Sean Carroll, Simons Intitute Talk [youtube](https://www.youtube.com/watch?v=6slug9rjaIQ)
+  
 * 2012 Causal Inference Conference Featuring Judea Pearl [youtube](https://www.youtube.com/watch?v=j4JOR-PQuqQ&t=185s).         
   Judea Pearl's "The Mathematics of Causal Inference: Use it or Lose It"    
+  
