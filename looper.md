@@ -261,6 +261,13 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* Deep End-to-end Causal Inference.  
+   Tomas Geffner, Javier Antoran, Adam Foster, Wenbo Gong,   
+   Chao Ma, Emre Kiciman, Amit Sharma, Angus Lamb, Martin Kukla,   
+   Nick Pawlowski, Miltiadis Allamanis, Cheng Zhang.      
+   [arXiv](https://arxiv.org/abs/2202.02195) (2022).      
+   [github-deci](https://github.com/microsoft/project-azua/tree/main/azua/models/deci)
+
 * Learning to Induce Causal Structure.     
   Nan Rosemary Ke, Silvia Chiappa, Jane Wang, Jorg Bornschein, Theophane Weber,     
   Anirudh Goyal, Matthew Botvinic, Michael Mozer, Danilo Jimenez Rezende.    
@@ -360,18 +367,28 @@ Reverse chronological order, both technical and popular.
 * upliftml : Uplift modelling, Booking.com
   [github](https://github.com/bookingcom/upliftml)
 
-* DoWhy is a Python library for causal inference, Microsoft. 
-  [github](https://github.com/microsoft/dowhy)
+* Microsoft Research: 
+
+  * DoWhy is a Python library for causal inference.    
+    [github](https://github.com/microsoft/dowhy)
+    
+  * EconML.            
+    EconML is a Python package for estimating heterogeneous treatment    
+    effects from observational data via machine learning.  
+    [github](https://github.com/microsoft/EconML)  
+  
+  * Azua/DECI.      
+    [github](https://github.com/microsoft/project-azua)      
+    [github-DECI-module](https://github.com/microsoft/project-azua/tree/main/azua/models/deci) `Deep End-to-end Causal Inference`   
+    
+  * ShowWhy.     
+    UI on top of DoWhy, EconML [github](https://github.com/microsoft/showwhy)
   
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
-  [github](https://github.com/uber/causalml)
+    [github](https://github.com/uber/causalml)
 
 * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
 
-* EconML    
-  EconML is a Python package for estimating heterogeneous treatment  
-  effects from observational data via machine learning. 
-  [github](https://github.com/microsoft/EconML)
 
 * dagR: Directed Acyclic Graph with R.  
   [CRAN](https://cran.r-project.org/web/packages/dagR/index.html)[doi](http://dx.doi.org/10.1097/EDE.0b013e3181e09112)
