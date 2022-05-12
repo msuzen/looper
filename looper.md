@@ -296,6 +296,10 @@ Reverse chronological order, both technical and popular.
   Albert Whata; Charles Chimedza.   
   [ieee](https://ieeexplore.ieee.org/abstract/document/9667520). (2022)   
 
+* Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale.  
+  Paul Hünermund et. al. (2021)
+  [arXiv](https://arxiv.org/abs/2108.11294) | [talk](https://faculti.net/double-machine-learning-and-automated-confounder-selection/)
+
 * Explainable Reinforcement Learning Through a Causal Lens.    
   Prashan Madumal.   
   PhD thesis, Australia [pdf](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/0730665b-be59-5e97-9eb8-33223bf6464c/content) | [aaai](https://ojs.aaai.org//index.php/AAAI/article/view/5631).  (2021). 
