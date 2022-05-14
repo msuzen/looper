@@ -329,6 +329,10 @@ Reverse chronological order, both technical and popular.
   Karima Makhlouf, Sami Zhioua, Catuscia Palamidessi.    
   [arXiv](https://zhimeir.github.io/cfsensitivity/index.html) (2020). 
  
+* Causal Modeling of Twitter Activity during COVID-19     
+  Gencoglu, Oguzhan, and Mathias Gruber. (2020).    
+  Computation 8, no. 4: 85. (doi)[https://doi.org/10.3390/computation8040085]
+ 
 * Achieving Causal Fairness in Machine Learning.   
   Wu, Yongkai. University of Arkansas, ProQuest Dissertations Publishing, 2020. 27960037.   
   [url](https://search.proquest.com/openview/5b94283bd4da8edc1b14bff3db4c9e77/1?pq-origsite=gscholar&cbl=18750&diss=y)
