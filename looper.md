@@ -277,6 +277,10 @@ Reverse chronological order, both technical and popular.
   Answering Causal Questions Using Observational Data.   
   [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).  
   
+* Learning Representations for Counterfactual Inference.  
+  Fredrik D. Johansson, Uri Shalit, David Sontag.  
+  ICML 2016, [arXiv](https://arxiv.org/abs/1605.03661).   
+  
 * Causal Discovery via Reproducing Kernel Hilbert Space Embeddings       
   Zhitang Chen, Kun Zhang, Laiwan Chan, Bernhard Schölkopf     
   Neural Computation 26, 1484–1517   
