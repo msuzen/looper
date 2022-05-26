@@ -439,6 +439,8 @@ Reverse chronological order, both technical and popular.
   [2](https://statmodeling.stat.columbia.edu/2009/07/09/more_on_pearlru/)
   [3](https://statmodeling.stat.columbia.edu/2009/07/07/philip_dawids_t/)
   
+  * 05/2022 Statistitians vs. Causal Inference  [url](https://statmodeling.stat.columbia.edu/2022/05/14/causal-is-what-we-say-when-we-dont-know-what-were-doing/#comment-2053584) | Pearl's response [url](http://causality.cs.ucla.edu/blog/index.php/2022/05/17/what-statisticians-mean-by-causal-inference-is-gelmans-blog-representative/)      
+  
 * Judea Pearl on Potential Outcomes.  
   [url](http://causality.cs.ucla.edu/blog/index.php/2012/12/03/judea-pearl-on-potential-outcomes/)
   
