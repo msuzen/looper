@@ -212,6 +212,11 @@ Reverse chronological order, both technical and popular.
   Judea Pearl. (2009).  
   [doi](http://dx.doi.org/10.1214/09-SS057). 
 
+* The Neyman— Rubin Model of Causal Inference and Estimation Via Matching Methods.        
+  Jasjeet Sekhon.    
+  The Oxford Handbook of Political Methodology.    
+  [doi](10.1093/oxfordhb/9780199286546.003.0011) | [pdf-preprint](http://sekhon.berkeley.edu/papers/SekhonOxfordHandbook.pdf)
+
 * Econometric Causality.   
   James J. Heckman.  
   International Statistical Review (2008), 76, 1, 1–27.    
