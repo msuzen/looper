@@ -388,7 +388,10 @@ Reverse chronological order, both technical and popular.
 * upliftml : Uplift modelling, Booking.com
   [github](https://github.com/bookingcom/upliftml)
 
-* Microsoft Research: 
+* Microsoft Research:  
+  
+  * PyWhy organisation [github](https://github.com/py-why/).      
+    [DoWhy evolves to independent PyWhy model to help causal inference grow](https://www.microsoft.com/en-us/research/blog/dowhy-evolves-to-independent-pywhy-model-to-help-causal-inference-grow/?OCID=msr_blog_PyWhy_TW).       
 
   * DoWhy is a Python library for causal inference.    
     [github](https://github.com/microsoft/dowhy)
