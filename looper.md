@@ -376,6 +376,8 @@ Reverse chronological order, both technical and popular.
 
 ## Software.  
 
+* auto-causality [github](https://github.com/transferwise/auto-causality).   
+
 * Primier, self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)
 
 * cause2e: A Python package for end-to-end causal analysis.    
@@ -394,8 +396,8 @@ Reverse chronological order, both technical and popular.
     [DoWhy evolves to independent PyWhy model to help causal inference grow](https://www.microsoft.com/en-us/research/blog/dowhy-evolves-to-independent-pywhy-model-to-help-causal-inference-grow/?OCID=msr_blog_PyWhy_TW).       
 
   * DoWhy is a Python library for causal inference.    
-    [github](https://github.com/microsoft/dowhy)
-    
+    [github](https://github.com/microsoft/dowhy) | [Paper-arXiv](https://arxiv.org/abs/2011.04216).   
+
   * EconML.            
     EconML is a Python package for estimating heterogeneous treatment    
     effects from observational data via machine learning.  
@@ -407,12 +409,11 @@ Reverse chronological order, both technical and popular.
     
   * ShowWhy.     
     UI on top of DoWhy, EconML [github](https://github.com/microsoft/showwhy)
-  
+
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
     [github](https://github.com/uber/causalml)
 
 * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
-
 
 * dagR: Directed Acyclic Graph with R.  
   [CRAN](https://cran.r-project.org/web/packages/dagR/index.html)[doi](http://dx.doi.org/10.1097/EDE.0b013e3181e09112)
