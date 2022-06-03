@@ -393,11 +393,11 @@ Reverse chronological order, both technical and popular.
 * Microsoft Research:  
   
   * PyWhy organisation [github](https://github.com/py-why/).      
-    [DoWhy evolves to independent PyWhy model to help causal inference grow](https://www.microsoft.com/en-us/research/blog/dowhy-evolves-to-independent-pywhy-model-to-help-causal-inference-grow/?OCID=msr_blog_PyWhy_TW).       
+    [DoWhy evolves to independent PyWhy model to help causal inference grow](https://www.microsoft.com/en-us/research/blog/dowhy-evolves-to-independent-pywhy-model-to-help-causal-inference-grow/?OCID=msr_blog_PyWhy_TW) | [aws-blog](https://www.amazon.science/blog/aws-contributes-novel-causal-machine-learning-algorithms-to-dowhy)     
 
   * DoWhy is a Python library for causal inference.    
-    [github](https://github.com/microsoft/dowhy) | [Paper-arXiv](https://arxiv.org/abs/2011.04216).   
-
+    [github](https://github.com/microsoft/dowhy) | [Paper-arXiv](https://arxiv.org/abs/2011.04216). 
+    
   * EconML.            
     EconML is a Python package for estimating heterogeneous treatment    
     effects from observational data via machine learning.  
