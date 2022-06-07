@@ -270,6 +270,10 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* Causal Structure Learning: a Combinatorial Perspective.    
+  Chandler Squires, Caroline Uhler.  (2022).   
+  [arXiv](https://arxiv.org/abs/2206.01152).    
+
 * Deep End-to-end Causal Inference.  
    Tomas Geffner, Javier Antoran, Adam Foster, Wenbo Gong,   
    Chao Ma, Emre Kiciman, Amit Sharma, Angus Lamb, Martin Kukla,   
