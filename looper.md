@@ -361,6 +361,11 @@ Reverse chronological order, both technical and popular.
   Silvia Chiappa, William S. Isaac (2019).    
   [arXiv:1907.06430](https://arxiv.org/abs/1907.06430)    
 
+* Zhang, J., & Bareinboim, E. (2018).       
+  Fairness in Decision-Making — The Causal Explanation Formula.     
+  Proceedings of the AAAI Conference on Artificial Intelligence, 32(1).   
+  [doi](https://doi.org/10.1609/aaai.v32i1.11564).  
+
 * Counterfactual Fairness.    
   Kusner et. al.   
   NeurIPs 2017 [pdf](https://proceedings.neurips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)
