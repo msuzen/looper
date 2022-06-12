@@ -57,7 +57,8 @@ Reverse chronological order, both technical and popular.
 * Pearl, Glymour and Jewell.  
   Causal Inference in Statistics: A Primer (2016).  
   [amzn](https://www.amzn.com/dp/1119186846).   
-  [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).    
+  [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
+  [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).   
 
 * Morgan & Winship.  
   Counterfactuals and Causal Inference (2nd edition) (2015).  
