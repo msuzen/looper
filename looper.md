@@ -240,6 +240,10 @@ Reverse chronological order, both technical and popular.
   [doi](http://dx/doi.org/10.1093/pan/mpg012).   
   [researchgate-url](https://www.researchgate.net/publication/228774938_Causal_Complexity_and_the_Study_of_Politics).  
 
+* Causal diagrams for empirical research.    
+  Judea Pearl (1995).    
+  [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).   
+
 *  Paul W. Holland.  
    Statistics and Causal Inference.  
    Journal of the American Statistical Association.  
