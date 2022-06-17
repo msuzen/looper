@@ -532,7 +532,9 @@ Reverse chronological order, both technical and popular.
 
 * 2022 The Arrow of Time in Causal Networks
   Sean Carroll, Simons Intitute Talk [youtube](https://www.youtube.com/watch?v=6slug9rjaIQ)
-* 2015 Toward Causal Machine Learning
+* 2016 The Mathematics of Causal Inference: with Reflections on Machine Learning.    
+  Judea Pearl, Microsoft Research. [youtube](https://www.youtube.com/watch?v=bcRl7sXR1hE).     
+* 2015 Toward Causal Machine Learning.  
   Bernhard Schölkopf, [youtube](https://www.youtube.com/watch?v=ooeRlw3U2zU)
 * 2012 Causal Inference Conference Featuring Judea Pearl [youtube](https://www.youtube.com/watch?v=j4JOR-PQuqQ&t=185s).         
   Judea Pearl's "The Mathematics of Causal Inference: Use it or Lose It"    
