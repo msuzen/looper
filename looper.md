@@ -12,7 +12,8 @@
 [MOOCs](#moocs)  
 [Blog Posts](#blog-posts)  
 [Quotes](#quotes)  
-[Video Lectures](#video-lectures)
+[Video Lectures](#video-lectures).  
+[Academics](#academics)
 
 ## Books  
 
@@ -539,5 +540,12 @@ Reverse chronological order, both technical and popular.
 * 2012 Causal Inference Conference Featuring Judea Pearl [youtube](https://www.youtube.com/watch?v=j4JOR-PQuqQ&t=185s).         
   Judea Pearl's "The Mathematics of Causal Inference: Use it or Lose It"    
   
-  
+## Academics
+* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html). 
+* [Elias Bareinboim](https://causalai.net).    
+* [Donald B. Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin). 
+* [Joshua Angrist](https://economics.mit.edu/faculty/angrist).  
+* [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens).  
+* [David Card](https://davidcard.berkeley.edu). 
+* [Bernhard Schölkopf](https://is.mpg.de/~bs). 
   
