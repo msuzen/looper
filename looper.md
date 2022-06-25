@@ -140,11 +140,6 @@ Reverse chronological order, both technical and popular.
 * Causal Inference and Data-Fusion in Econometrics.  
   Paul Hünermund (Maastricht University), Elias Bareinboim (Columbia University).   
   [arXiv:1912.09104](https://arxiv.org/abs/1912.09104).   
-
-* Causal network reconstruction from time series: From theoretical assumptions to practical estimation.  
-  J. Runge.  
-  Chaos 28, 075310 (2018).   
-  [DOI](https://doi.org/10.1063/1.5025050)
   
 * The Seven Tools of Causal Inference, with Reflections on Machine Learning.  
   Judea Pearl.   
@@ -296,13 +291,18 @@ Reverse chronological order, both technical and popular.
   Answering Causal Questions Using Observational Data.   
   [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).  
   
+ * Causal network reconstruction from time series: From theoretical assumptions to practical estimation.  
+  J. Runge.  
+  Chaos 28, 075310 (2018).   
+  [DOI](https://doi.org/10.1063/1.5025050).  
+  
 * Learning Representations for Counterfactual Inference.  
   Fredrik D. Johansson, Uri Shalit, David Sontag.  
   ICML 2016, [arXiv](https://arxiv.org/abs/1605.03661).   
   
 * Causal Discovery via Reproducing Kernel Hilbert Space Embeddings       
   Zhitang Chen, Kun Zhang, Laiwan Chan, Bernhard Schölkopf     
-  Neural Computation 26, 1484–1517   
+  Neural Computation 26, 1484–1517  (2014).     
   [doi](http://dx.doi.org/10.1162/NECO_a_00599)   
   
 * Cosma Shalizi's notebook [causal discovery algorithms](http://bactra.org/notebooks/causal-discovery-algorithms.html).    
@@ -427,6 +427,9 @@ Reverse chronological order, both technical and popular.
 
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
     [github](https://github.com/uber/causalml)
+
+* Tigramite – Causal inference and causal discovery for time series datasets.    
+  [github](https://github.com/jakobrunge/tigramite)
 
 * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
 
