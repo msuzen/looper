@@ -534,6 +534,8 @@ Reverse chronological order, both technical and popular.
 
 ## Video Lectures 
 
+* 2022 Causal Data Science.      
+  Elias Bareinboim (@ 1st Workshop on Interactive Causal Learning) [youtube](https://www.youtube.com/watch?v=6lWB_JmWY8g).    
 * 2022 The Arrow of Time in Causal Networks
   Sean Carroll, Simons Intitute Talk [youtube](https://www.youtube.com/watch?v=6slug9rjaIQ)
 * 2016 The Mathematics of Causal Inference: with Reflections on Machine Learning.    
