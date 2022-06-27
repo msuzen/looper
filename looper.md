@@ -430,6 +430,8 @@ Reverse chronological order, both technical and popular.
 
 * Tigramite – Causal inference and causal discovery for time series datasets.    
   [github](https://github.com/jakobrunge/tigramite)
+  
+* IBM's causalib Python package [github](https://github.com/IBM/causallib)
 
 * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
 
@@ -438,9 +440,11 @@ Reverse chronological order, both technical and popular.
 
 * An R package for causal inference using Bayesian structural time-series models   
   [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html). 
-  [CRAN](https://cran.r-project.org/package=CausalImpact). 
+  [CRAN](https://cran.r-project.org/package=CausalImpact).    
+  [github-python-port](https://github.com/jamalsenouci/causalimpact).   
+  [paper](https://research.google/pubs/pub41854/).  
 
-* Python package [causalinference](https://github.com/laurencium/causalinference)  
+* Python package [causalinference](https://github.com/laurencium/causalinference)  | [web](https://causalinferenceinpython.org).    
   [Vignette](https://github.com/laurencium/causalinference/blob/master/docs/tex/vignette.pdf)
 
 * Tetrad Project: Graphical Causal Models  
