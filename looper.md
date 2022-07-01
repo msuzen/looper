@@ -391,6 +391,8 @@ Reverse chronological order, both technical and popular.
 
 ## Software.  
 
+* R Universe: [CRAN Task View Causal Inference](https://cran.r-project.org/web/views/CausalInference.html)
+
 * auto-causality [github](https://github.com/transferwise/auto-causality).   
 
 * Primier, self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)
