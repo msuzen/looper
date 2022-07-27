@@ -553,6 +553,7 @@ Reverse chronological order, both technical and popular.
   
 ## Academics
 * [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html). 
+* [Clark Glymour](https://www.cmu.edu/dietrich/philosophy/people/emeritus/glymour.html)
 * [Elias Bareinboim](https://causalai.net).    
 * [Donald B. Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin). 
 * [Joshua Angrist](https://economics.mit.edu/faculty/angrist).  
