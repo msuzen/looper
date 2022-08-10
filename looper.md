@@ -459,6 +459,10 @@ Reverse chronological order, both technical and popular.
 * PyPhi: A toolbox for integrated information theory.   
   [pypi](https://pypi.org/project/pyphi/).  
   [arXiv1712.09644](https://arxiv.org/abs/1712.09644)
+  
+* causaleffect: Deriving Expressions of Joint Interventional Distributions and Transport Formulas in Causal Models.   
+  [CRAN](https://cran.r-project.org/web/packages/causaleffect/index.html).  
+  * GRAPHL [repo](https://github.com/max-little/GRAPL) | [joss](https://joss.theoj.org/papers/10.21105/joss.04534.pdf)
 
 ## MOOCs
 
