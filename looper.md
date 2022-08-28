@@ -116,7 +116,15 @@ Reverse chronological order, both technical and popular.
 
 
 ## Papers general 
-   
+
+* Personalized Decision Making -- A Conceptual Introduction
+  Scott Mueller, Judea Pearl.      
+  [arXiv:2208.09558](https://arxiv.org/abs/2208.09558). (2022).       
+
+* Causal Entropy Optimization.   
+  Nicola Branchini, Virginia Aglietti, Neil Dhir, Theodoros Damoulas.    
+  [arXiv](https://arxiv.org/abs/2208.10981).  
+
 * From Statistical to Causal Learning.   
   Bernhard Schölkopf, Julius von Kügelgen    
   [arXiv](https://arxiv.org/abs/2204.00607) (2022)
