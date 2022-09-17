@@ -124,7 +124,7 @@ Reverse chronological order, both technical and popular.
 
 * Causal Entropy Optimization.   
   Nicola Branchini, Virginia Aglietti, Neil Dhir, Theodoros Damoulas.    
-  [arXiv](https://arxiv.org/abs/2208.10981).  
+  [arXiv](https://arxiv.org/abs/2208.10981).  (2022).   
 
 * From Statistical to Causal Learning.   
   Bernhard Schölkopf, Julius von Kügelgen    
