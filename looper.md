@@ -134,6 +134,10 @@ Reverse chronological order, both technical and popular.
   Ying Jin, Zhimei Ren, Emmanuel J. Candès. (2021).     
   [arXiv](https://arxiv.org/abs/2111.12161). | [Rpackage](https://zhimeir.github.io/cfsensitivity/index.html)
 
+* A Survey on Causal Inference.  
+  Yao et. al.   
+  [doi](https://dl.acm.org/doi/10.1145/3444944).   (2021).    
+
 * Potential Outcome and Directed Acyclic Graph Approaches to Causality:    
   Relevance for Empirical Practice in Economics.    
   Guido W. Imbens.   
