@@ -20,6 +20,11 @@
 
 Reverse chronological order, both technical and popular.   
 
+* Causal Inference & Discovery in Python.   
+  From Machine Learning & Pearlian Perspective.  (expected 2023). 
+  in progress [causalpython](https://causalpython.io). 
+  Aleksander Molak. 
+
 * Probabilistic and Causal Inference: The Works of Judea Pearl.  (2022)    
   Editors: Hector Geffner,Rina Dechter,Joseph Y. Halpern.   
   ACM Books [doi](https://dl.acm.org/doi/book/10.1145/3501714).   
