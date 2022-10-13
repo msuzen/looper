@@ -1,6 +1,7 @@
 # `A resource list for causality in statistics, data science and physics.`
 
 ##### Table of Contents  
+[Editor's Selection](#editors selection)
 [Books](#books)   
 [Papers general](#papers-general)  
 [Causal Discovery](#causal-discovery)       
@@ -15,6 +16,14 @@
 [Video Lectures](#video-lectures).  
 [Academics](#academics)
 [Communities](Communities)
+
+## Editors Selection
+Repeating from other sections, Highly important 
+Order from beginner to advanced
+
+* Judea Pearl and Mackenzie.  
+  The Book of Why: The New Science of Cause and Effect (2018).  
+  [amzn](https://www.amzn.com/dp/046509760X) | [Pearl's additional links](http://bayes.cs.ucla.edu/WHY/)
 
 ## Books  
 
@@ -55,7 +64,7 @@ Reverse chronological order, both technical and popular.
 
 * Pearl and Mackenzie.  
   The Book of Why: The New Science of Cause and Effect (2018).  
-  [amzn](https://www.amzn.com/dp/046509760X)
+  [amzn](https://www.amzn.com/dp/046509760X) | [Pearl's additional links](http://bayes.cs.ucla.edu/WHY/)
 
 * Rosenbaum.  
   Observation and Experiment: An Introduction to Causal Inference (2017).  
