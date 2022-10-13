@@ -1,7 +1,7 @@
 # `A resource list for causality in statistics, data science and physics.`
 
 ##### Table of Contents  
-[Editor's Selection](#editors selection)
+[Editor's Selection](#editors-selection).  
 [Books](#books)   
 [Papers general](#papers-general)  
 [Causal Discovery](#causal-discovery)       
