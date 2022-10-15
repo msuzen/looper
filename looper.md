@@ -57,6 +57,10 @@ Reverse chronological order, both technical and popular.
   Introduction to Causal Inference from a Machine Learning Perspective. (2020).  
   [pdf](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) 
   
+* Kohavi, Ron, Diane Tang, and Ya Xu.    
+  Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing.            
+  Cambridge University Press. [www](https://experimentguide.com/). (2020).      
+
 * Experimental Design : Causal Inference   
   Stefan Wager.  
   Class notes [pdf](https://statweb.stanford.edu/~owen/courses/363/stats361.pdf). 
@@ -68,8 +72,8 @@ Reverse chronological order, both technical and popular.
 
 * Rosenbaum.  
   Observation and Experiment: An Introduction to Causal Inference (2017).  
-  [amzn](https://www.amzn.com/dp/067497557X/).  
-
+  [amzn](https://www.amzn.com/dp/067497557X/).   
+  
 * Jonas Peters, Dominik Janzing and Bernhard Schoelkopf.   
   Elements of Causal Inference: Foundations and Learning Algorithms (2017).  
   [mitpress](https://mitpress.mit.edu/books/elements-causal-inference) | [pdf](https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf).  
@@ -192,6 +196,10 @@ Reverse chronological order, both technical and popular.
   Vincent Dorie†, Jennifer Hill, Uri Shalit, Marc Scott, and Dan Cervone.   
   [arXiv:1707.02641](https://arxiv.org/pdf/1707.02641.pdf)
   
+* Double/Debiased Machine Learning for Treatment and Causal Parameters.   
+  Victor Chernozhukov et. al.  (2017).  
+  [arXiv](https://arxiv.org/abs/1608.00060).       
+
 * Quantum-Like Bayesian Networks for Modeling Decision Making.  
   Catarina Moreira and Andreas Wichert. 
   Front. Psychol., 26 January 2016. 
@@ -269,9 +277,13 @@ Reverse chronological order, both technical and popular.
   [researchgate-url](https://www.researchgate.net/publication/228774938_Causal_Complexity_and_the_Study_of_Politics).  
 
 * Causal diagrams for empirical research.    
-  Judea Pearl (1995).    
+  Judea Pearl (1995).     
   [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).   
 
+* Identification and Estimation of Local Average Treatment Effects.   
+  Joshua D. Angrist & Guido W. Imbens.    
+  [nber](https://www.nber.org/papers/t0118) (1995).           
+  
 *  Paul W. Holland.  
    Statistics and Causal Inference.  
    Journal of the American Statistical Association.  
@@ -521,6 +533,17 @@ Reverse chronological order, both technical and popular.
   [url](http://causality.cs.ucla.edu/blog/index.php/2017/02/22/winter-2017-greeting-from-ucla-causality-blog/).   
 
 ## Quotes
+
+Including interviews.    
+
+* Interviwe with Judea Pearl.   
+  Observational Studies (2022).    
+  [url](https://muse.jhu.edu/article/867087).   
+
+* Interview with Don Rubin.    
+  Observational Studies (2022).      
+  [url](https://muse.jhu.edu/article/867089).      
+
 
 `Prediction and Causation`
 
