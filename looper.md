@@ -25,6 +25,13 @@ Order from beginner to advanced
   The Book of Why: The New Science of Cause and Effect (2018).  
   [amzn](https://www.amzn.com/dp/046509760X) | [Pearl's additional links](http://bayes.cs.ucla.edu/WHY/)
 
+* The Seven Tools of Causal Inference, with Reflections on Machine Learning.      
+  Judea Pearl.     
+  Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60.      
+  [url](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext)    
+  [pdf-reprint](https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf). 
+
+
 ## Books  
 
 Reverse chronological order, both technical and popular.   
@@ -616,6 +623,7 @@ Including interviews.
 * [Donald B. Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin). 
 * [Joshua Angrist](https://economics.mit.edu/faculty/angrist).  
 * [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens).  
+* [Andrew Gelman](http://www.stat.columbia.edu/~gelman/)
 * [David Card](https://davidcard.berkeley.edu). 
 * [Bernhard Schölkopf](https://is.mpg.de/~bs). 
   
