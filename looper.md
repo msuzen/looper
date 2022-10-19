@@ -604,11 +604,14 @@ Including interviews.
   Uri Shalit, Technion (Forum Communication 01/2018)
 
 ## Video Lectures 
+including discussions
 
 * 2022 Causal Data Science.      
   Elias Bareinboim (@ 1st Workshop on Interactive Causal Learning) [youtube](https://www.youtube.com/watch?v=6lWB_JmWY8g).    
 * 2022 The Arrow of Time in Causal Networks
   Sean Carroll, Simons Intitute Talk [youtube](https://www.youtube.com/watch?v=6slug9rjaIQ)
+* Judea Pearl: Causal Reasoning, Counterfactuals, and the Path to AGI | Lex Fridman Podcast #56.    
+  Dec 11, 2019 [yt](https://www.youtube.com/watch?v=pEBI0vF45ic).    
 * 2016 The Mathematics of Causal Inference: with Reflections on Machine Learning.    
   Judea Pearl, Microsoft Research. [youtube](https://www.youtube.com/watch?v=bcRl7sXR1hE).     
 * 2015 Toward Causal Machine Learning.  
