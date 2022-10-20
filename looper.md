@@ -14,8 +14,8 @@
 [Blog Posts](#blog-posts)  
 [Quotes](#quotes)  
 [Video Lectures](#video-lectures).  
-[Academics](#academics)
-[Communities](Communities)
+[Academics](#academics). 
+[Communities](#communities)
 
 ## Editors Selection
 Repeating from other sections, Highly important 
