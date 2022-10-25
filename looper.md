@@ -14,7 +14,7 @@
 [Blog Posts](#blog-posts)  
 [Quotes](#quotes)  
 [Video Lectures](#video-lectures).  
-[Academics](#academics). 
+[Academics](#academics).   
 [Communities](#communities)
 
 ## Editors Selection
