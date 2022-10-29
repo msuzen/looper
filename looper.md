@@ -425,7 +425,11 @@ Reverse chronological order, both technical and popular.
 * Counterfactual Fairness.    
   Kusner et. al.   
   NeurIPs 2017 [pdf](https://proceedings.neurips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf)
-  
+
+* Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR    
+  Sandra Wachter, Brent Mittelstadt, Chris Russell          
+  [arXiv](https://arxiv.org/abs/1711.00399) (2017).    
+
 ## Physics
 
 * Causal Entropic Forces.    
