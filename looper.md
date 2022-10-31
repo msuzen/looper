@@ -547,7 +547,7 @@ Reverse chronological order, both technical and popular.
 
 Including interviews.    
 
-* Interviwe with Judea Pearl.   
+* Interview with Judea Pearl.   
   Observational Studies (2022).    
   [url](https://muse.jhu.edu/article/867087).   
 
