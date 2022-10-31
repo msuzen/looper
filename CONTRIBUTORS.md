@@ -1,4 +1,8 @@
-Mehmet Suzen (Alumni Frankfurt)
+
+Mehmet Suzen (Alumni Frankfurt) : Principal Author & Editor
+
+# Contributors
+
 Uri Shalit (Technion)
 Rodney Beard (Glasgow)
 Nino Malekovic (The Hague/Basel)
