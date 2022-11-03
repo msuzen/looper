@@ -205,7 +205,7 @@ Reverse chronological order, both technical and popular.
   
 * Double/Debiased Machine Learning for Treatment and Causal Parameters.   
   Victor Chernozhukov et. al.  (2017).  
-  [arXiv](https://arxiv.org/abs/1608.00060).       
+  [arXiv](https://arxiv.org/abs/1608.00060). | [EC-journal](https://academic.oup.com/ectj/article/21/1/C1/5056401?login=true)      
 
 * Quantum-Like Bayesian Networks for Modeling Decision Making.  
   Catarina Moreira and Andreas Wichert. 
