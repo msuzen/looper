@@ -461,6 +461,8 @@ Reverse chronological order, both technical and popular.
 * upliftml : Uplift modelling, Booking.com
   [github](https://github.com/bookingcom/upliftml)
 
+* DoubleML in Python/R package [github](https://github.com/DoubleML/doubleml-for-py).
+
 * Microsoft Research:  
   
   * PyWhy organisation [github](https://github.com/py-why/).      
