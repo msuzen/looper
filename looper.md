@@ -482,6 +482,9 @@ Reverse chronological order, both technical and popular.
     
   * ShowWhy.     
     UI on top of DoWhy, EconML [github](https://github.com/microsoft/showwhy)
+    
+  * Causica.     
+    [github](https://github.com/microsoft/causica)  
 
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
     [github](https://github.com/uber/causalml)
