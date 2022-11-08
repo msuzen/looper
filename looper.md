@@ -140,7 +140,8 @@ Reverse chronological order, both technical and popular.
   
 *  Microeconometrics: Methods and Applications (2005).      
    Cameron, A. C., and P. K. Trivedi.      
-   Cambridge: Cambridge University Press. [amz](https://www.amzn.com/dp/0521848059).  
+   Cambridge: Cambridge University Press. [amz](https://www.amzn.com/dp/0521848059).       
+   [Chapter-4-form Author's academic page](http://cameron.econ.ucdavis.edu/e240a/ch04iv.pdf).    
   
 * Rosenbaum.   
   Observational Studies (Springer Series in Statistics) 2nd Edition  (2002).  
