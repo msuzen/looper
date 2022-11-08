@@ -45,6 +45,10 @@ Reverse chronological order, both technical and popular.
   Editors: Hector Geffner,Rina Dechter,Joseph Y. Halpern.   
   ACM Books [doi](https://dl.acm.org/doi/book/10.1145/3501714).   
 
+* Microeconometrics using Stata: Volume 2: Nonlinear Models and Causal Inference Methods. (2022).      
+  Cameron, A. C., and P. K. Trivedi.        
+  Stata Press [url](https://www.routledge.com/Microeconometrics-Using-Stata-Second-Edition-Volume-II-Nonlinear-Models/Cameron-Trivedi/p/book/9781597183628)
+
 * Nick Huntington-Klein.     
   The Effect: An Introduction to Research Design and Causality (2021).        
   [bookdown](https://theeffectbook.net/index.html) | [amzn](https://amzn.com/dp/1032125780).      
@@ -53,6 +57,10 @@ Reverse chronological order, both technical and popular.
 * Causal Machine Learning.  
   Robert Ness (2022-).  
   [in-progress](https://www.manning.com/books/causal-machine-learning)  | [lecture notes](https://bookdown.org/robertness/causalml/docs/)
+  
+* Causal Inference, The Mixtape.     
+  Scott Cunningham.      
+  Yale University Press [url](https://yalebooks.yale.edu/book/9780300251685/causal-inference/) (2021)
   
 * Hernán & Robins.  
   Causal Inference: What If (2020).  
@@ -91,6 +99,10 @@ Reverse chronological order, both technical and popular.
   [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
   [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).   
 
+* Mastering 'Metrics: The Path from Cause to Effect. (2015).          
+  Angrist, J.D. and J.-S.Pischke.   
+  Princeton University Press [url](https://press.princeton.edu/books/paperback/9780691152844/mastering-metrics)
+
 * Morgan & Winship.  
   Counterfactuals and Causal Inference (2nd edition) (2015).  
   [amzn](https://www.amzn.com/dp/1107694167)  
@@ -125,6 +137,10 @@ Reverse chronological order, both technical and popular.
 * Fundamentals of statistical causality (2007).   
   C. A. P. Dawid.  
   [pre-print](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.169.5962)
+  
+*  Microeconometrics: Methods and Applications (2005).      
+   Cameron, A. C., and P. K. Trivedi.      
+   Cambridge: Cambridge University Press. [amz](https://www.amzn.com/dp/0521848059).  
   
 * Rosenbaum.   
   Observational Studies (Springer Series in Statistics) 2nd Edition  (2002).  
