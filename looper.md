@@ -60,7 +60,7 @@ Reverse chronological order, both technical and popular.
   
 * Causal Inference, The Mixtape.     
   Scott Cunningham.      
-  Yale University Press [url](https://yalebooks.yale.edu/book/9780300251685/causal-inference/) (2021)
+  Yale University Press [url](https://yalebooks.yale.edu/book/9780300251685/causal-inference/) | [web-site](https://mixtape.scunning.com) (2021)
   
 * Hernán & Robins.  
   Causal Inference: What If (2020).  
