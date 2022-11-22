@@ -160,6 +160,10 @@ Reverse chronological order, both technical and popular.
 
 ## Papers general 
 
+* Phenomenological Causality.    
+  Dominik Janzing, Sergio Hernan Garrido Mejia (2022).     
+  [arXiv](https://arxiv.org/abs/2211.09024)   
+
 * Personalized Decision Making -- A Conceptual Introduction
   Scott Mueller, Judea Pearl.      
   [arXiv:2208.09558](https://arxiv.org/abs/2208.09558). (2022).       
