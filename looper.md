@@ -508,7 +508,7 @@ Reverse chronological order, both technical and popular.
     [github](https://github.com/microsoft/causica)  
 
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
-    [github](https://github.com/uber/causalml)
+    [github](https://github.com/uber/causalml) | [software X paper](https://doi.org/10.1016/j.softx.2022.101294)
 
 * Tigramite – Causal inference and causal discovery for time series datasets.    
   [github](https://github.com/jakobrunge/tigramite)
