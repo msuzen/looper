@@ -135,8 +135,8 @@ Reverse chronological order, both technical and popular.
   [amzn](https://www.amzn.com/dp/052189560X).  
 
 * Fundamentals of statistical causality (2007).   
-  C. A. P. Dawid.  
-  [pre-print](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.169.5962)
+  C. A. P. Dawid.    
+  [pre-print research gate](https://www.researchgate.net/publication/242495222_Fundamentals_of_statistical_causality).    
   
 *  Microeconometrics: Methods and Applications (2005).      
    Cameron, A. C., and P. K. Trivedi.      
