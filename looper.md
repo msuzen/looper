@@ -504,16 +504,20 @@ Reverse chronological order, both technical and popular.
   * ShowWhy.     
     UI on top of DoWhy, EconML [github](https://github.com/microsoft/showwhy)
     
-  * Causica.     
+  * Causica : DECI: End to End Causal Inference     
     [github](https://github.com/microsoft/causica)  
 
-* Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML.  
+* CausalML: A Python Package for Uplift Modeling and Causal Inference with ML.  
     [github](https://github.com/uber/causalml) | [software X paper](https://doi.org/10.1016/j.softx.2022.101294)
 
 * Tigramite – Causal inference and causal discovery for time series datasets.    
   [github](https://github.com/jakobrunge/tigramite)
   
 * IBM's causalib Python package [github](https://github.com/IBM/causallib)
+
+* Huawei's gCastle is a causal structure learning toolchain [github-repo](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)
+
+* [CausalPy](https://github.com/pymc-labs/CausalPy) : Bayesian -regression discontinuity
 
 * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
 
