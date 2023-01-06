@@ -36,11 +36,20 @@ Order from beginner to advanced
 
 Reverse chronological order, both technical and popular.   
 
-* Causal Inference & Discovery in Python.   
+* Causal Inference & Discovery in Python.    
   From Machine Learning & Pearlian Perspective.  (expected 2023). 
-  in progress [causalpython](https://causalpython.io). 
-  Aleksander Molak. 
-
+  Aleksander Molak.   
+  in progress [causalpython](https://causalpython.io).    
+  
+* Causal Inference in Python.   
+    Matheus Facure.   
+  in progress [Oreilly](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/) (expected 2023).      
+  
+* Causal Inference for The Brave and True. (2022).  
+   Matheus Facure.      
+  [e-book](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) | [github](https://github.com/matheusfacure/python-causality-handbook)  
+  
+  
 * Probabilistic and Causal Inference: The Works of Judea Pearl.  (2022)    
   Editors: Hector Geffner,Rina Dechter,Joseph Y. Halpern.   
   ACM Books [doi](https://dl.acm.org/doi/book/10.1145/3501714).   
