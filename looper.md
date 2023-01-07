@@ -462,15 +462,32 @@ Reverse chronological order, both technical and popular.
 
 ## Physics
 
+* Arrow of Causality and Quantum Gravity.  
+  John F. Donoghue and Gabriel Menezes.  
+  Phys. Rev. Lett. 123, 171601    
+  [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.171601)
+
+* The causal set approach to quantum gravity.   
+  Sumati Surya     
+  Living Reviews in Relativity volume 22, Article number: 5 (2019).   
+  [url](https://link.springer.com/article/10.1007/s41114-019-0023-1).  
+
 * Causal Entropic Forces.    
   A. D. Wissner-Gross and C. E. Freer.   
-  Phys. Rev. Lett. 110, 168702.        
+  Phys. Rev. Lett. 110, 168702.  (2013).         
   [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702).  
+  
+* Space-time as a causal set.  
+  Luca Bombelli, Joohan Lee, David Meyer, and Rafael D. Sorkin.  
+  Phys. Rev. Lett. 59, 521 (1987).  
+  [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.521)
 
 * The class of continuous timelike curves determines the topology of spacetime.   
   David B. Malament.  
   Journal of Mathematical Physics 18, 1399 (1977).   
   [doi](https://doi.org/10.1063/1.523436).  
+
+
 
 
 ## Software.  
