@@ -516,6 +516,9 @@ Reverse chronological order, both technical and popular.
   * Causica : DECI: End to End Causal Inference     
     [github](https://github.com/microsoft/causica)  
 
+* [CausalNex](https://github.com/quantumblacklabs/causalnex) A toolkit for causal reasoning with Bayesian Networks 
+  from Quantumblack.
+
 * CausalML: A Python Package for Uplift Modeling and Causal Inference with ML.  
     [github](https://github.com/uber/causalml) | [software X paper](https://doi.org/10.1016/j.softx.2022.101294)
 
