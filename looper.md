@@ -17,9 +17,9 @@
 [Academics](#academics).   
 [Communities](#communities)
 
-## Editors Selection
+## Editors Selection 
 Repeating from other sections, Highly important 
-Order from beginner to advanced
+Order from beginner to advanced.
 
 * Judea Pearl and Mackenzie.  
   The Book of Why: The New Science of Cause and Effect (2018).  
@@ -30,7 +30,11 @@ Order from beginner to advanced
   Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60.      
   [url](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext)    
   [pdf-reprint](https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf).  
-  [interview](https://www.youtube.com/watch?v=CsMV5o3hotY). 
+  [interview](https://www.youtube.com/watch?v=CsMV5o3hotY).  
+  
+* Causal Inference: History, Perspectives, Adventures, and Unification (An Interview with Judea Pearl).      
+  Observational Studies, 8, 2, (2022), p1-14.       
+  [url](https://muse.jhu.edu/article/867087) | [pdf](https://muse.jhu.edu/pub/56/article/867087/pdf).         
 
 
 ## Books  
@@ -43,7 +47,7 @@ Reverse chronological order, both technical and popular.
   in progress [causalpython](https://causalpython.io).    
   
 * Causal Inference in Python.   
-    Matheus Facure.   
+  Matheus Facure.   
   in progress [Oreilly](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/) (expected 2023).      
   
 * Causal Inference for The Brave and True. (2022).  
@@ -396,6 +400,11 @@ Reverse chronological order, both technical and popular.
   [UCLA Technical-Report](http://bayes.cs.ucla.edu/R264.pdf)
 
 ## Machine Learning
+Including games.   
+
+* Reasoning about Causality in Games.    
+ Lewis Hammond, James Fox, Tom Everitt, Ryan Carey, Alessandro Abate, Michael Wooldridge.  (2023).    
+ [arXiv](https://arxiv.org/abs/2301.02324).    
 
 * Evaluating Uses of Deep Learning Methods for Causal Inference.    
   Albert Whata; Charles Chimedza.   
@@ -512,6 +521,11 @@ Reverse chronological order, both technical and popular.
 
 * DoubleML in Python/R package [github](https://github.com/DoubleML/doubleml-for-py).
 
+* pgmpy is a pure python implementation for Bayesian Networks [url](https://pgmpy.org)
+
+* PyCID: Causal Influence Diagrams library [github](https://github.com/causalincentives/pycid)
+  (Relevant to PyCID : A python library for 2 player games [nashpy](https://github.com/drvinceknight/nashpy)   
+ 
 * Microsoft Research:  
   
   * PyWhy organisation [github](https://github.com/py-why/).      
@@ -608,9 +622,9 @@ Reverse chronological order, both technical and popular.
 
 Including interviews.    
 
-* Interview with Judea Pearl.   
-  Observational Studies (2022).    
-  [url](https://muse.jhu.edu/article/867087).   
+* Causal Inference: History, Perspectives, Adventures, and Unification (An Interview with Judea Pearl).  
+  Observational Studies, 8, 2, 2022, p1-14.     
+  [url](https://muse.jhu.edu/article/867087) | [pdf](https://muse.jhu.edu/pub/56/article/867087/pdf).       
 
 * Interview with Don Rubin.    
   Observational Studies (2022).      
