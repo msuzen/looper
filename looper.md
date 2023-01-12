@@ -29,7 +29,8 @@ Order from beginner to advanced
   Judea Pearl.     
   Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60.      
   [url](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext)    
-  [pdf-reprint](https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf). 
+  [pdf-reprint](https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf).  
+  [interview](https://www.youtube.com/watch?v=CsMV5o3hotY). 
 
 
 ## Books  
@@ -217,7 +218,8 @@ Reverse chronological order, both technical and popular.
   Judea Pearl.   
   Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60.  
   [url](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext)    
-  [pdf-reprint](https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf)
+  [pdf-reprint](https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf). 
+  [interview](https://www.youtube.com/watch?v=CsMV5o3hotY).  
 
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms.    
   Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, 
