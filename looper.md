@@ -36,6 +36,16 @@ Order from beginner to advanced.
   Observational Studies, 8, 2, (2022), p1-14.       
   [url](https://muse.jhu.edu/article/867087) | [pdf](https://muse.jhu.edu/pub/56/article/867087/pdf).         
 
+* Pearl, Glymour and Jewell.  
+  Causal Inference in Statistics: A Primer (2016).  
+  [amzn](https://www.amzn.com/dp/1119186846).   
+  [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
+  [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).   
+
+* Causality, determinism, and physics.   
+  Julio Geo-Banacloche.    
+  American Journal of Physics 90, 809 (2022); [doi](https://doi.org/10.1119/5.0087017).  
+
 
 ## Books  
 
@@ -46,14 +56,13 @@ Reverse chronological order, both technical and popular.
   Aleksander Molak.   
   in progress [causalpython](https://causalpython.io).    
   
-* Causal Inference in Python.   
-  Matheus Facure.   
+* Causal Inference in Python.       
+  Matheus Facure.    
   in progress [Oreilly](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/) (expected 2023).      
   
 * Causal Inference for The Brave and True. (2022).  
    Matheus Facure.      
   [e-book](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) | [github](https://github.com/matheusfacure/python-causality-handbook)  
-  
   
 * Probabilistic and Causal Inference: The Works of Judea Pearl.  (2022)    
   Editors: Hector Geffner,Rina Dechter,Joseph Y. Halpern.   
@@ -492,6 +501,10 @@ Including games.
   Phys. Rev. Lett. 110, 168702.  (2013).         
   [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.168702).  
   
+* Resource Letter CD-1: Causality and determinism in physics.    
+  R. Jones.     
+  Am. J. Phys. 64, 208–215 (1996). [doi](https://doi.org/10.1119/1.18208).     
+ 
 * Space-time as a causal set.  
   Luca Bombelli, Joohan Lee, David Meyer, and Rafael D. Sorkin.  
   Phys. Rev. Lett. 59, 521 (1987).  
