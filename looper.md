@@ -93,7 +93,7 @@ Reverse chronological order, both technical and popular.
 * Experimental Design : Causal Inference   
   Stefan Wager.  
   Class notes [pdf](https://statweb.stanford.edu/~owen/courses/363/stats361.pdf). 
-  [url](https://statweb.stanford.edu/~owen/courses/363/). 
+  [url](https://statweb.stanford.edu/~owen/courses/363/).  
 
 * Pearl and Mackenzie.  
   The Book of Why: The New Science of Cause and Effect (2018).  
@@ -472,6 +472,10 @@ Including games.
   [arXiv](https://arxiv.org/abs/1711.00399) (2017).    
 
 ## Physics
+
+* Causality, determinism, and physics.   
+  Julio Geo-Banacloche.    
+  American Journal of Physics 90, 809 (2022); [doi](https://doi.org/10.1119/5.0087017).  
 
 * Arrow of Causality and Quantum Gravity.  
   John F. Donoghue and Gabriel Menezes.  
