@@ -542,6 +542,8 @@ Including games.
 
 * PyCID: Causal Influence Diagrams library [github](https://github.com/causalincentives/pycid)
   (Relevant to PyCID : A python library for 2 player games [nashpy](https://github.com/drvinceknight/nashpy)   
+
+* LinGAM Discovery of non-gaussian linear causal models [github](https://github.com/cdt15/lingam) | [software paper](https://jmlr.org/papers/v24/21-0321.html)  | [original paper](https://www.jmlr.org/papers/v7/shimizu06a.html)
  
 * Microsoft Research:  
   
