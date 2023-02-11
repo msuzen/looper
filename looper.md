@@ -407,6 +407,11 @@ Reverse chronological order, both technical and popular.
 * Simpson's Paradox: An Anatomy    
   Judea Pearl (1999). 
   [UCLA Technical-Report](http://bayes.cs.ucla.edu/R264.pdf)
+  
+* On Simpson's Paradox and the Sure-Thing Principle.   
+  Colin R. Blyth.  
+  Journal of the American Statistical Association.  
+  Vol. 67, No. 338 (Jun., 1972), pp. 364-366.  [doi](https://doi.org/10.2307/2284382) 
 
 ## Machine Learning
 Including games.   
