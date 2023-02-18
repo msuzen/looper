@@ -416,9 +416,12 @@ Reverse chronological order, both technical and popular.
 ## Machine Learning
 Including games.   
 
+* A Survey on Causal Reinforcement Learning
+  Yan Zeng et. al. [arXiv](https://arxiv.org/abs/2302.05209) (2023)
+
 * Reasoning about Causality in Games.    
- Lewis Hammond, James Fox, Tom Everitt, Ryan Carey, Alessandro Abate, Michael Wooldridge.  (2023).    
- [arXiv](https://arxiv.org/abs/2301.02324).    
+  Lewis Hammond, James Fox, Tom Everitt, Ryan Carey, Alessandro Abate, Michael Wooldridge.  (2023).    
+  [arXiv](https://arxiv.org/abs/2301.02324).    
 
 * Evaluating Uses of Deep Learning Methods for Causal Inference.    
   Albert Whata; Charles Chimedza.   
