@@ -366,6 +366,10 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* On the Interventional Kullback-Leibler Divergence. 
+  Jonas Wildberger, Siyuan Guo, Arnab Bhattacharyya, Bernhard Schölkopf.    
+  [arXiv](https://arxiv.org/abs/2302.05380) (2023).    
+
 * Causal Structure Learning: a Combinatorial Perspective.    
   Chandler Squires, Caroline Uhler.  (2022).   
   [arXiv](https://arxiv.org/abs/2206.01152).    
