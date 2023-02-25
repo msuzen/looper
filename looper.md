@@ -386,6 +386,10 @@ Reverse chronological order, both technical and popular.
   Anirudh Goyal, Matthew Botvinic, Michael Mozer, Danilo Jimenez Rezende.    
   [arXiv](https://arxiv.org/abs/2204.04875) (2022).   
 
+* Discovering Causal Structure with Reproducing-Kernel Hilbert Space ε-Machines.  
+  Nicolas Brodu, James P. Crutchfield. 
+  [arXiv](https://arxiv.org/abs/2011.14821) (2021).  
+
 * Nobel Memorial Economics Prize 2021 on causal discovery, scientific summary.     
   Answering Causal Questions Using Observational Data.   
   [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).  
