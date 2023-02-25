@@ -498,6 +498,10 @@ Including games.
 
 ## Physics
 
+* Loschimidt's Paradox and Causality: Can we establish Pearlian expression for Bolztmann's H-theorem?     
+  M. Suezen [url](https://science-memo.blogspot.com/2023/02/loschimidts-do-calculus.html).        
+  early-print (2023).   
+
 * Causality, determinism, and physics.   
   Julio Geo-Banacloche.    
   American Journal of Physics 90, 809 (2022); [doi](https://doi.org/10.1119/5.0087017).  
