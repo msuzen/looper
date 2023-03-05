@@ -612,7 +612,8 @@ Including games.
   [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html). 
   [CRAN](https://cran.r-project.org/package=CausalImpact).    
   [github-python-port](https://github.com/jamalsenouci/causalimpact).   
-  [paper](https://research.google/pubs/pub41854/).  
+  [paper](https://research.google/pubs/pub41854/).    
+  [causalimpact-tf](https://github.com/WillianFuks/tfcausalimpact) Re-write with tensorflow probability
 
 * Python package [causalinference](https://github.com/laurencium/causalinference)  | [web](https://causalinferenceinpython.org).    
   [Vignette](https://github.com/laurencium/causalinference/blob/master/docs/tex/vignette.pdf)
