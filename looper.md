@@ -10,6 +10,7 @@
 [Fairness](#fairness)  
 [Physics](#physics)  
 [Software](#software)  
+[Datasets](#datasets)
 [MOOCs](#moocs)  
 [Blog Posts](#blog-posts)  
 [Quotes](#quotes)  
@@ -424,6 +425,10 @@ Reverse chronological order, both technical and popular.
 ## Machine Learning
 Including games.   
 
+* Causal Deep Learning.  
+  Jeroen Berrevoets, Krzysztof Kacprzyk, Zhaozhi Qian, Mihaela van der Schaar.  (2023)
+  [arXiv](https://arxiv.org/abs/2303.02186).   
+
 * A Survey on Causal Reinforcement Learning
   Yan Zeng et. al. [arXiv](https://arxiv.org/abs/2302.05209) (2023)
 
@@ -629,6 +634,13 @@ Including games.
   [CRAN](https://cran.r-project.org/web/packages/causaleffect/index.html).  
   * GRAPHL [repo](https://github.com/max-little/GRAPL) | [joss](https://joss.theoj.org/papers/10.21105/joss.04534.pdf)
 
+## Datasets
+
+* Distinguishing Cause from Effect Using Observational Data: Methods and Benchmarks.     
+  Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Schölkopf;   
+  17(32):1−102, (2016).  [jmlr-paper](https://jmlr.org/papers/v17/14-518.html).       
+  Database with cause-effect pairs [url](https://webdav.tuebingen.mpg.de/cause-effect/). 
+  
 ## MOOCs
 
 * A Crash Course in Causality: Inferring Causal Effects from Observational Data.    
