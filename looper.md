@@ -521,6 +521,10 @@ Including games.
   Living Reviews in Relativity volume 22, Article number: 5 (2019).   
   [url](https://link.springer.com/article/10.1007/s41114-019-0023-1).  
 
+* Algorithmic independence of initial condition and dynamical law in thermodynamics and causal inference.   
+  Dominik Janzing et al 2016 New J. Phys. 18 093052.   
+  [url-open-access](https://iopscience.iop.org/article/10.1088/1367-2630/18/9/093052/meta).   
+  
 * Causal Entropic Forces.    
   A. D. Wissner-Gross and C. E. Freer.   
   Phys. Rev. Lett. 110, 168702.  (2013).         
@@ -539,9 +543,6 @@ Including games.
   David B. Malament.  
   Journal of Mathematical Physics 18, 1399 (1977).   
   [doi](https://doi.org/10.1063/1.523436).  
-
-
-
 
 ## Software.  
 
