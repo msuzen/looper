@@ -639,8 +639,8 @@ Including games.
 * Distinguishing Cause from Effect Using Observational Data: Methods and Benchmarks.     
   Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Schölkopf;   
   17(32):1−102, (2016).  [jmlr-paper](https://jmlr.org/papers/v17/14-518.html).       
-  Database with cause-effect pairs [url](https://webdav.tuebingen.mpg.de/cause-effect/). 
-  
+  Database with cause-effect pairs [url](https://webdav.tuebingen.mpg.de/cause-effect/).     
+ 
 ## MOOCs
 
 * A Crash Course in Causality: Inferring Causal Effects from Observational Data.    
@@ -751,15 +751,18 @@ including discussions
   Judea Pearl's "The Mathematics of Causal Inference: Use it or Lose It"    
   
 ## Academics
-* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html). 
-* [Clark Glymour](https://www.cmu.edu/dietrich/philosophy/people/emeritus/glymour.html)
+
+* [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html).  
+* [Clark Glymour](https://www.cmu.edu/dietrich/philosophy/people/emeritus/glymour.html). 
 * [Elias Bareinboim](https://causalai.net).    
 * [Donald B. Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin). 
 * [Joshua Angrist](https://economics.mit.edu/faculty/angrist).  
 * [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens).  
-* [Andrew Gelman](http://www.stat.columbia.edu/~gelman/)
-* [David Card](https://davidcard.berkeley.edu). 
-* [Bernhard Schölkopf](https://is.mpg.de/~bs). 
+* [Andrew Gelman](http://www.stat.columbia.edu/~gelman/).  
+* [David Card](https://davidcard.berkeley.edu).  
+* [Bernhard Schölkopf](https://is.mpg.de/~bs).  
+* [Dominik Janzing](https://janzing.github.io). 
+* [Uri Shalit](https://dds.technion.ac.il/academicstaff/uri-shalit/).  
   
 # Communities
 * [Causal Science](https://www.causalscience.org)
