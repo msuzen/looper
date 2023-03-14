@@ -184,6 +184,10 @@ Reverse chronological order, both technical and popular.
 
 ## Papers general 
 
+* Causal Inference and Data-Fusion in Econometrics.  
+  Paul Hünermund (Maastricht University), Elias Bareinboim (Columbia University).   
+  [arXiv:1912.09104](https://arxiv.org/abs/1912.09104). | [The Econometrics Journal, 2023](https://doi.org/10.1093/ectj/utad008)
+
 * Phenomenological Causality.    
   Dominik Janzing, Sergio Hernan Garrido Mejia (2022).     
   [arXiv](https://arxiv.org/abs/2211.09024)   
@@ -223,10 +227,6 @@ Reverse chronological order, both technical and popular.
   Jakob Runge, Peer Nowack, Marlene Kretschmer, Seth Flaxman and Dino Sejdinovic. 
   Science Advances  27 Nov 2019 Vol. 5, no. 11, eaau4996.  
   [doi](http://dx.doi.org10.1126/sciadv.aau4996)
-
-* Causal Inference and Data-Fusion in Econometrics.  
-  Paul Hünermund (Maastricht University), Elias Bareinboim (Columbia University).   
-  [arXiv:1912.09104](https://arxiv.org/abs/1912.09104). | [The Econometrics Journal, 2023](https://doi.org/10.1093/ectj/utad008)
   
 * The Seven Tools of Causal Inference, with Reflections on Machine Learning.  
   Judea Pearl.   
