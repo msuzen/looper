@@ -226,7 +226,7 @@ Reverse chronological order, both technical and popular.
 
 * Causal Inference and Data-Fusion in Econometrics.  
   Paul Hünermund (Maastricht University), Elias Bareinboim (Columbia University).   
-  [arXiv:1912.09104](https://arxiv.org/abs/1912.09104).   
+  [arXiv:1912.09104](https://arxiv.org/abs/1912.09104). | [The Econometrics Journal, 2023](https://doi.org/10.1093/ectj/utad008)
   
 * The Seven Tools of Causal Inference, with Reflections on Machine Learning.  
   Judea Pearl.   
