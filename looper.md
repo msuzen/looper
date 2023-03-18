@@ -52,6 +52,11 @@ Order from beginner to advanced.
 
 Reverse chronological order, both technical and popular.   
 
+* Causal Analysis.  
+  Impact Evaluation and Causal Machine Learning with Applications in R.  
+  Martin Huber (2023).      
+  MIT Press [url](https://mitpress.mit.edu/9780262545914/causal-analysis/)
+
 * Causal Inference & Discovery in Python.    
   From Machine Learning & Pearlian Perspective.  (expected 2023). 
   Aleksander Molak.   
