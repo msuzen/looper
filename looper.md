@@ -10,7 +10,7 @@
 [Fairness](#fairness)  
 [Physics](#physics)  
 [Software](#software)  
-[Datasets](#datasets)
+[Datasets](#datasets)     
 [MOOCs](#moocs)  
 [Blog Posts](#blog-posts)  
 [Quotes](#quotes)  
@@ -48,7 +48,7 @@ Order from beginner to advanced.
   American Journal of Physics 90, 809 (2022); [doi](https://doi.org/10.1119/5.0087017).  
 
 
-## Books  
+## Books   
 
 Reverse chronological order, both technical and popular.   
 
@@ -56,6 +56,10 @@ Reverse chronological order, both technical and popular.
   Impact Evaluation and Causal Machine Learning with Applications in R.  
   Martin Huber (2023).      
   MIT Press [url](https://mitpress.mit.edu/9780262545914/causal-analysis/)
+
+* Causal Inference for Data Science.     
+  Aleix Ruiz de Villa (2023).   
+  [manning](https://www.manning.com/books/causal-inference-for-data-science).    
 
 * Causal Inference & Discovery in Python.    
   From Machine Learning & Pearlian Perspective.  (expected 2023). 
