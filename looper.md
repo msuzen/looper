@@ -573,7 +573,7 @@ Including games.
 
 * DoubleML in Python/R package [github](https://github.com/DoubleML/doubleml-for-py).
 
-* pgmpy is a pure python implementation for Bayesian Networks [url](https://pgmpy.org)
+* pgmpy is a pure python implementation for Bayesian Networks [url](https://pgmpy.org) | [Paper-ArXiv](https://arxiv.org/abs/2304.08639)
 
 * PyCID: Causal Influence Diagrams library [github](https://github.com/causalincentives/pycid)
   (Relevant to PyCID : A python library for 2 player games [nashpy](https://github.com/drvinceknight/nashpy)   
