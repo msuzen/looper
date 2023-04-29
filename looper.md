@@ -227,6 +227,10 @@ Reverse chronological order, both technical and popular.
   Journal of Economic Literature (December 2020).   
   [journal](https://www.aeaweb.org/articles?id=10.1257/jel.20191597) | [arXiv](https://arxiv.org/abs/1907.07271) | [Pearl's response](http://causality.cs.ucla.edu/blog/index.php/category/imbens/)
 
+* Synthetic Difference in Differences, 2019. 
+  Dmitry Arkhangelsky, Susan Athey, David A. Hirshberg, Guido W. Imbens, and Stefan Wager. 
+  [arxiv:1812.09970](https://arxiv.org/abs/1812.09970)
+
 * Why Propensity Scores Should Not Be Used for Matching      
   King et. al.   
   Political Analysis, 27, 4, Pp. 435-454.  (2019)
@@ -579,6 +583,9 @@ Including games.
   (Relevant to PyCID : A python library for 2 player games [nashpy](https://github.com/drvinceknight/nashpy)   
 
 * LinGAM Discovery of non-gaussian linear causal models [github](https://github.com/cdt15/lingam) | [software paper](https://jmlr.org/papers/v24/21-0321.html)  | [original paper](https://www.jmlr.org/papers/v7/shimizu06a.html)
+
+* (synthdid: Synthetic Difference in Differences Estimation)[https://synth-inference.github.io/synthdid/index.html].  
+  R-package
  
 * Microsoft Research:  
   
