@@ -438,6 +438,11 @@ Reverse chronological order, both technical and popular.
 ## Machine Learning
 Including games.   
 
+* Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale.  
+  Paul Hünermund et. al. (2023) 
+  [arXiv](https://arxiv.org/abs/2108.11294) | [talk](https://faculti.net/double-machine-learning-and-automated-confounder-selection/) |
+  [Journal of Causal Inference](https://doi.org/10.1515/jci-2022-0078)
+  
 * Causal Deep Learning.  
   Jeroen Berrevoets, Krzysztof Kacprzyk, Zhaozhi Qian, Mihaela van der Schaar.  (2023)
   [arXiv](https://arxiv.org/abs/2303.02186).   
@@ -452,11 +457,7 @@ Including games.
 * Evaluating Uses of Deep Learning Methods for Causal Inference.    
   Albert Whata; Charles Chimedza.   
   [ieee](https://ieeexplore.ieee.org/abstract/document/9667520). (2022)   
-
-* Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale.  
-  Paul Hünermund et. al. (2021)
-  [arXiv](https://arxiv.org/abs/2108.11294) | [talk](https://faculti.net/double-machine-learning-and-automated-confounder-selection/)
-
+  
 * Explainable Reinforcement Learning Through a Causal Lens.    
   Prashan Madumal.   
   PhD thesis, Australia [pdf](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/0730665b-be59-5e97-9eb8-33223bf6464c/content) | [aaai](https://ojs.aaai.org//index.php/AAAI/article/view/5631).  (2021). 
