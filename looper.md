@@ -193,6 +193,11 @@ Reverse chronological order, both technical and popular.
 
 ## Papers general 
 
+* Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale.  
+  Paul Hünermund et. al. (2023) 
+  [arXiv](https://arxiv.org/abs/2108.11294) | [talk](https://faculti.net/double-machine-learning-and-automated-confounder-selection/) |
+  [Journal of Causal Inference](https://doi.org/10.1515/jci-2022-0078)
+  
 * Causal Inference and Data-Fusion in Econometrics.  
   Paul Hünermund (Maastricht University), Elias Bareinboim (Columbia University).   
   [arXiv:1912.09104](https://arxiv.org/abs/1912.09104). | [The Econometrics Journal, 2023](https://doi.org/10.1093/ectj/utad008)
