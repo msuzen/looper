@@ -52,23 +52,27 @@ Order from beginner to advanced.
 
 Reverse chronological order, both technical and popular.   
 
+* A First Course in Causal Inference.  
+  Peng Ding.  
+  [arXiv](https://arxiv.org/abs/2305.18793) (2023)
+
+* Causal Inference & Discovery in Python.  (2023)  
+  From Machine Learning & Pearlian Perspective. 
+  Aleksander Molak.   
+  [causalpython](https://causalpython.io). | [amz](https://amzn.com/dp/1804612987)   
+  
 * Causal Inference for Data Science.     
-  Aleix Ruiz de Villa exp. (2024).   
+  Aleix Ruiz de Villa (2023)
   [manning](https://www.manning.com/books/causal-inference-for-data-science).  
   
 * Causal Analysis.  
   Impact Evaluation and Causal Machine Learning with Applications in R.  
   Martin Huber (2023).      
   MIT Press [url](https://mitpress.mit.edu/9780262545914/causal-analysis/)  
-
-* Causal Inference & Discovery in Python.    
-  From Machine Learning & Pearlian Perspective.  (expected 2023). 
-  Aleksander Molak.   
-  in progress [causalpython](https://causalpython.io).    
   
 * Causal Inference in Python.       
   Matheus Facure.    
-  in progress [Oreilly](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/) (expected 2023).      
+  [Oreilly](https://www.oreilly.com/library/view/causal-inference-in/9781098140243/) (2023).      
   
 * Causal Inference for The Brave and True. (2022).  
    Matheus Facure.      
@@ -192,6 +196,10 @@ Reverse chronological order, both technical and popular.
 
 
 ## Papers general 
+
+* A Measure-Theoretic Axiomatisation of Causality.  
+  Junhyung Park, Simon Buchholz, Bernhard Schölkopf, Krikamol Muandet.   
+  [arXiv]() (2023).  
 
 * Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale.  
   Paul Hünermund et. al. (2023) 
@@ -442,6 +450,10 @@ Reverse chronological order, both technical and popular.
 
 ## Machine Learning
 Including games.   
+
+* Causal Component Analysis.   
+  Wendong Liang et. al.  
+  [arXiv](https://arxiv.org/abs/2305.17225) (2023).  
 
 * Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale.  
   Paul Hünermund et. al. (2023) 
