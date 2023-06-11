@@ -218,6 +218,10 @@ Reverse chronological order, both technical and popular.
   Scott Mueller, Judea Pearl.      
   [arXiv:2208.09558](https://arxiv.org/abs/2208.09558). (2022).       
 
+* Backtracking Counterfactuals.  
+  Julius von Kügelgen, Abdirisak Mohamed, Sander Beckers.  
+  [arXiv](https://arxiv.org/abs/2211.00472) (2022)
+  
 * Causal Entropy Optimization.   
   Nicola Branchini, Virginia Aglietti, Neil Dhir, Theodoros Damoulas.    
   [arXiv](https://arxiv.org/abs/2208.10981).  (2022).   
