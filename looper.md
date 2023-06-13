@@ -560,6 +560,11 @@ Including games.
   Dominik Janzing et al 2016 New J. Phys. 18 093052.   
   [url-open-access](https://iopscience.iop.org/article/10.1088/1367-2630/18/9/093052/meta).   
   
+* Quantum causality. 
+  Brukner, Časlav.   
+  Nature Physics, Volume 10, Issue 4, pp. 259-263 (2014).   
+  [doi](https://ui.adsabs.harvard.edu/link_gateway/2014NatPh..10..259B/doi:10.1038/nphys2930)
+  
 * Causal Entropic Forces.    
   A. D. Wissner-Gross and C. E. Freer.   
   Phys. Rev. Lett. 110, 168702.  (2013).         
