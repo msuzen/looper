@@ -51,6 +51,10 @@ Order from beginner to advanced.
   Julio Geo-Banacloche.    
   American Journal of Physics 90, 809 (2022); [doi](https://doi.org/10.1119/5.0087017).  
 
+* Causal diagrams for empirical research.    
+  Judea Pearl (1995).     
+  [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).
+  `Reasoning on Graphs: d-seperation, back/front-door`
 
 ## Books   
 
@@ -372,6 +376,7 @@ Reverse chronological order, both technical and popular.
 * Causal diagrams for empirical research.    
   Judea Pearl (1995).     
   [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).
+  `Reasoning on Graphs: d-seperation, back/front-door`
   
 * Identification and Estimation of Local Average Treatment Effects.   
   Joshua D. Angrist & Guido W. Imbens.    
