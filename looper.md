@@ -43,6 +43,10 @@ Order from beginner to advanced.
   [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
   [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).   
 
+* Nobel Memorial Economics Prize 2021 on causal discovery, scientific summary.     
+  Answering Causal Questions Using Observational Data.   
+  [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).
+
 * Causality, determinism, and physics.   
   Julio Geo-Banacloche.    
   American Journal of Physics 90, 809 (2022); [doi](https://doi.org/10.1119/5.0087017).  
@@ -359,13 +363,20 @@ Reverse chronological order, both technical and popular.
   [doi](http://dx/doi.org/10.1093/pan/mpg012).   
   [researchgate-url](https://www.researchgate.net/publication/228774938_Causal_Complexity_and_the_Study_of_Politics).  
 
+* Identification of Causal Effects Using Instrumental Variables    
+  Joshua D. Angrist, Guido W. Imbens and Donald B. Rubin   
+  Journal of the American Statistical Association (JASA)
+  Vol. 91, No. 434 (Jun., 1996) [jstor](https://www.jstor.org/stable/2291629) | [pdf-McGill](https://www.math.mcgill.ca/dstephens/AngristIV1996-JASA-Combined.pdf)
+  `potential outcomes`
+  
 * Causal diagrams for empirical research.    
   Judea Pearl (1995).     
-  [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).   
-
+  [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).
+  
 * Identification and Estimation of Local Average Treatment Effects.   
   Joshua D. Angrist & Guido W. Imbens.    
-  [nber](https://www.nber.org/papers/t0118) (1995).           
+  [nber](https://www.nber.org/papers/t0118) (1995).
+  Econometrica, 6, 2,467-476.  (1994) [jstor](https://www.jstor.org/stable/2951620) | [pdf-Baylor](https://business.baylor.edu/scott_cunningham/teaching/imbens--angrist---late-1994.pdf)    
   
 *  Paul W. Holland.  
    Statistics and Causal Inference.  
