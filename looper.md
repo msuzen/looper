@@ -205,6 +205,11 @@ Reverse chronological order, both technical and popular.
 
 ## Papers general 
 
+* Causal inference for time series     
+  Jakob Runge et. al.  
+  Nature Reviews Earth & Environment volume 4, pages 487–505 (2023)   
+  [doi](https://doi.org/10.1038/s43017-023-00431-y)   
+
 * A Measure-Theoretic Axiomatisation of Causality.  
   Junhyung Park, Simon Buchholz, Bernhard Schölkopf, Krikamol Muandet.   
   [arXiv](https://arxiv.org/abs/2305.17139) (2023).  
