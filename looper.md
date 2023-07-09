@@ -476,6 +476,10 @@ Reverse chronological order, both technical and popular.
 ## Machine Learning
 Including games.   
 
+* Causal Reinforcement Learning: A Survey   
+  Zhihong Deng, Jing Jiang, Guodong Long, Chengqi Zhang
+  [arXiv](https://arxiv.org/abs/2307.01452) (2023)
+
 * Causal Component Analysis.   
   Wendong Liang et. al.  
   [arXiv](https://arxiv.org/abs/2305.17225) (2023).  
