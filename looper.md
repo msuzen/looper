@@ -834,7 +834,8 @@ including discussions
 * [Guido W. Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens).  
 * [Andrew Gelman](http://www.stat.columbia.edu/~gelman/).  
 * [David Card](https://davidcard.berkeley.edu).  
-* [Bernhard Schölkopf](https://is.mpg.de/~bs).  
+* [Bernhard Schölkopf](https://is.mpg.de/~bs).
+* [Joris M. Mooij](https://staff.fnwi.uva.nl/j.m.mooij/).
 * [Dominik Janzing](https://janzing.github.io). 
 * [Uri Shalit](https://dds.technion.ac.il/academicstaff/uri-shalit/).  
   
