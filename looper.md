@@ -839,6 +839,9 @@ including discussions
 * [Dominik Janzing](https://janzing.github.io). 
 * [Uri Shalit](https://dds.technion.ac.il/academicstaff/uri-shalit/).  
   
-# Communities
+# Communities & Conference
+
 * [Causal Science](https://www.causalscience.org)
+* Counterfactual reasoning: From minds to machines to practical applications.  
+  ICML Workshop [url](https://sites.google.com/view/counterfactuals-icml/home) (2023) 
 
