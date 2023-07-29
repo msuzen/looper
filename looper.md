@@ -16,7 +16,7 @@
 [Quotes](#quotes)  
 [Video Lectures](#video-lectures).  
 [Academics](#academics).   
-[Communities](#communities)
+[Communities](#communities-conferences)
 
 ## Editors Selection 
 Repeating from other sections, Highly important 
@@ -839,7 +839,7 @@ including discussions
 * [Dominik Janzing](https://janzing.github.io). 
 * [Uri Shalit](https://dds.technion.ac.il/academicstaff/uri-shalit/).  
   
-# Communities & Conference
+# Communities Conferences
 
 * [Causal Science](https://www.causalscience.org)
 * Counterfactual reasoning: From minds to machines to practical applications.  
