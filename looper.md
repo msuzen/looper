@@ -479,7 +479,11 @@ Reverse chronological order, both technical and popular.
   Vol. 67, No. 338 (Jun., 1972), pp. 364-366.  [doi](https://doi.org/10.2307/2284382) 
 
 ## Machine Learning
-Including games.   
+Including games, reinforcement deep learning, LLMs
+
+* Causal Reasoning and Large Language Models: Opening a New Frontier for Causality  
+  Emre Kıcıman, Robert Ness, Amit Sharma, Chenhao Tan
+  [arXiv](https://arxiv.org/abs/2305.00050) (2023)
 
 * Causal Reinforcement Learning: A Survey   
   Zhihong Deng, Jing Jiang, Guodong Long, Chengqi Zhang
