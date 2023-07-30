@@ -479,7 +479,12 @@ Reverse chronological order, both technical and popular.
   Vol. 67, No. 338 (Jun., 1972), pp. 364-366.  [doi](https://doi.org/10.2307/2284382) 
 
 ## Machine Learning
-Including games, reinforcement deep learning, LLMs
+Including games, reinforcement or deep learning, LLMs
+
+* Estimating categorical counterfactuals via deep twin networks    
+  Athanasios Vlontzos, Bernhard Kainz & Ciarán M. Gilligan-Lee    
+  Nature Machine Intelligence volume 5, pages 159–168 (2023)
+  [nature](https://www.nature.com/articles/s42256-023-00611-x) | [arXiv](https://arxiv.org/abs/2109.01904)
 
 * Causal Reasoning and Large Language Models: Opening a New Frontier for Causality  
   Emre Kıcıman, Robert Ness, Amit Sharma, Chenhao Tan
