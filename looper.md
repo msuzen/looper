@@ -689,7 +689,8 @@ Including games, reinforcement or deep learning, LLMs
 
 * Huawei's gCastle is a causal structure learning toolchain [github-repo](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)
 
-* [CausalPy](https://github.com/pymc-labs/CausalPy) : Bayesian -regression discontinuity
+* [CausalPy](https://github.com/pymc-labs/CausalPy) : Bayesian -regression discontinuity |
+  [pymc-lab](https://www.pymc-labs.io)
 
 * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
 
