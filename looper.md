@@ -69,6 +69,10 @@ Reverse chronological order, both technical and popular.
   Peng Ding.  
   [arXiv](https://arxiv.org/abs/2305.18793) (2023)
 
+* Applied Causal Inference   
+  Uday Kamath, Kenneth Graham, Mitchell Naylor  (2023)   
+  [online-version](https://appliedcausalinference.github.io) | [lean-pub](https://leanpub.com/appliedcausalinference)   
+  
 * Causal Inference & Discovery in Python.  (2023)  
   From Machine Learning & Pearlian Perspective. 
   Aleksander Molak.   
