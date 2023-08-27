@@ -472,7 +472,7 @@ Reverse chronological order, both technical and popular.
 * Learning to Discover Various Simpson's Paradoxes   
   Jingwei Wang, Jianshan He, Weidi Xu, Ruopeng Li, Wei Chu   
   KDD '23: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining   
-  August 2023, Pages 5092–5103 [doi](https://doi.org/10.1145/3580305.3599859)
+  August 2023, Pages 5092–5103 [doi](https://doi.org/10.1145/3580305.3599859) | [git-repository](https://github.com/ant-research/Learning-to-Discover-Various-Simpson-Paradoxes)
 
 * Simpson's Paradox: An Anatomy    
   Judea Pearl (1999). 
