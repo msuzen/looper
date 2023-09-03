@@ -843,10 +843,12 @@ including discussions
 * 2012 Causal Inference Conference Featuring Judea Pearl [youtube](https://www.youtube.com/watch?v=j4JOR-PQuqQ&t=185s).         
   Judea Pearl's "The Mathematics of Causal Inference: Use it or Lose It"    
   
-## Academics
+## Contemporary Academics
 
 * [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html).  
-* [Clark Glymour](https://www.cmu.edu/dietrich/philosophy/people/emeritus/glymour.html). 
+* [Clark Glymour](https://www.cmu.edu/dietrich/philosophy/people/emeritus/glymour.html).
+* [Peter Spirtes](https://www.cmu.edu/dietrich/philosophy/people/faculty/spirtes.html)
+* [Richard Scheines](https://www.cmu.edu/dietrich/philosophy/people/faculty/scheines.html)
 * [Elias Bareinboim](https://causalai.net).    
 * [Donald B. Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin). 
 * [Joshua Angrist](https://economics.mit.edu/faculty/angrist).  
