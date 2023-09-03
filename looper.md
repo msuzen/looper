@@ -61,8 +61,8 @@ Order from beginner to advanced.
 Reverse chronological order, both technical and popular.   
 
 * A Mathematical Introduction to Causality   
-  Lecture Notes
-  Dr. Patrick Forré and Joris M. Mooij
+  Lecture Notes (2023)
+  Patrick Forré and Joris M. Mooij
   [UvA's-pdf](https://staff.fnwi.uva.nl/j.m.mooij/articles/causality_lecture_notes_2023.pdf)
 
 * A First Course in Causal Inference.  
