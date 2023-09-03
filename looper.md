@@ -204,7 +204,7 @@ Reverse chronological order, both technical and popular.
 * Causation, Prediction, and Search.   
   Peter Spirtes, Clark Glymour and Richard Scheines.   
   2nd Edition (2001).   
-  [mit press](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition)
+  [mit press](https://mitpress.mit.edu/books/causation-prediction-and-search-second-edition) | [pdf-research-gate](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search)
   
 * Structural Equations with Latent Variables.  
   Kenneth A. Bollen (1989).  
