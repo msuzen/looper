@@ -18,6 +18,12 @@ The main entry is a markdown file as follows, any looper specific internal examp
 * [A resource list for causality in statistics, data science and physics](looper.md)
   Other  fields of course such as econometrics, epidemiology and many more.
 
+## Looper Nuggets
+
+Looper Nuggets mimick a glossary of terms and concepts in causal inference, though they are entry to 
+understanding concepts in pedagogical manner. See the list of
+them [here](nuggets/looper-nuggets.md).
+
 ## License
 
 This repository and all contributions are licensed under
