@@ -85,7 +85,7 @@ Reverse chronological order, both technical and popular.
 * Causal Analysis.  
   Impact Evaluation and Causal Machine Learning with Applications in R.  
   Martin Huber (2023).      
-  MIT Press [url](https://mitpress.mit.edu/9780262545914/causal-analysis/)  | R package [causalweight](https://cran.r-project.org/web/packages/causalweight/index.html) | [R examples](https://www.unifr.ch/appecon/en/assets/public/uploads/causal%20analysis%20-%20R%20examples.txt)
+  MIT Press [url](https://mitpress.mit.edu/9780262545914/causal-analysis/)  | R package [causalweight](https://cran.r-project.org/web/packages/causalweight/index.html) | [R examples](https://www.unifr.ch/appecon/en/assets/public/uploads/causal%20analysis%20-%20R%20examples.txt) | [academic page](https://www.unifr.ch/appecon/en/research/text-book-causal-analysis.html)
   
 * Causal Inference in Python.       
   Matheus Facure.    
