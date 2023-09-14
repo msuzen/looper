@@ -17,3 +17,5 @@ Definition (wDAG): A weighted Directed Acyclic Graph (wDAG)  $\mathscr{G_{c}}$  
   [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).
 
 * Constraint (iii) may not be applied, then ties should be break randomly, in the case of ordered events.
+
+[Cite-me](../CITEME.md)
