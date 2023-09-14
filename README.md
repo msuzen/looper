@@ -22,7 +22,7 @@ The main entry is a markdown file as follows, any looper specific internal examp
 
 Looper Nuggets mimick a glossary of terms and concepts in causal inference, though they are entry to 
 understanding concepts in pedagogical manner. See the list of
-them [here](nuggets/looper-nuggets.md).
+them [here](nuggets/looper_nuggets.md).
 
 ## License
 
