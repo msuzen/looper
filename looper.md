@@ -427,6 +427,14 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* An Introduction to Causal Discovery   
+  Martin Huber, A bonus chapter (2023)   
+  [pdf-academic-page](https://www.unifr.ch/appecon/en/assets/public/uploads/introcausaldiscovery2.pdf)
+
+* Causal Discovery and Prediction: Methods and Algorithms   
+  Gilles Blondel (Thesis) (2023)  
+  [arXiv](https://arxiv.org/abs/2309.09416)  
+  
 * On the Interventional Kullback-Leibler Divergence. 
   Jonas Wildberger, Siyuan Guo, Arnab Bhattacharyya, Bernhard Schölkopf.    
   [arXiv](https://arxiv.org/abs/2302.05380) (2023).    
