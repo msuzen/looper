@@ -596,7 +596,7 @@ Including games, reinforcement or deep learning, LLMs
 
 *  H-Theorem do-conjecture  
    M. Suzen   
-   [arXiv:2310.01458](https://arxiv.org/abs/2310.01458).
+   [arXiv:2310.01458](https://arxiv.org/abs/2310.01458). | [code-repo](https://github.com/msuzen/h-do-conjecture)
 
 * Causality, determinism, and physics.   
   Julio Geo-Banacloche.    
