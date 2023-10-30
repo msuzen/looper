@@ -498,6 +498,10 @@ Reverse chronological order, both technical and popular.
 ## Machine Learning
 Including games, reinforcement or deep learning, LLMs
 
+* Causal machine learning for single-cell genomics   
+  Alejandro Tejada-Lapuerta, Paul Bertin, Stefan Bauer, Hananeh Aliee, Yoshua Bengio, Fabian J. Theis    
+  [arXiv](https://arxiv.org/abs/2310.14935) (2023)   
+  
 * Estimating categorical counterfactuals via deep twin networks    
   Athanasios Vlontzos, Bernhard Kainz & Ciarán M. Gilligan-Lee    
   Nature Machine Intelligence volume 5, pages 159–168 (2023)
