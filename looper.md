@@ -369,6 +369,11 @@ Reverse chronological order, both technical and popular.
   Vol. 100, No. 469 (Mar., 2005), pp. 322-331.          
   [jstor](https://www.jstor.org/stable/27590541).   
   [pdf-tandfonline](https://www.tandfonline.com/doi/pdf/10.1198/016214504000001880?casa_token=uQtd_czuZDEAAAAA:uh_ziMbrAJflEo1a5JbkhZauwazlpmdJKkbo0zRHRBlzBWx7CnS4GZAttMPyOVqow70mUycX0lmwgg)
+
+* The Economic Costs of Conflict: A Case Study of the Basque Country  
+  Alberto Abadie, Javier Gardeazabal   
+  American Economic Review, Vol. 93, No.1, pp 113-132 (2003) |  
+  [doi](https://dx.doi.org/10.1257/000282803321455188) | [baylor-pdf](https://business.baylor.edu/scott_cunningham/teaching/abadie-and-gardeazabal-2003.pdf)   
   
 * Time Series Analysis, Cointegration, and applications.   
   Nobel Lecture of Clive Granger.  
