@@ -660,6 +660,10 @@ Including games, reinforcement or deep learning, LLMs
 * cause2e: A Python package for end-to-end causal analysis.    
   [github](https://github.com/MLResearchAtOSRAM/cause2e).    
 
+* Causal-learn: Causal Discovery in Python   
+  Spirtes & CMU & Team  
+  [arXiv](https://arxiv.org/abs/2307.16405) | [repo](https://github.com/py-why/causal-learn)  
+
 * The Causal Discovery Toolbox.    
   A package for causal inference in graphs and in the pairwise settings.            
   [github](https://github.com/FenTechSolutions/CausalDiscoveryToolbox).      
