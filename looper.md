@@ -796,6 +796,9 @@ Including interviews.
   Observational Studies (2022).      
   [url](https://muse.jhu.edu/article/867089).      
 
+* A Conversation with A. Philip Dawid   (2023)
+  [arXiv](https://arxiv.org/abs/2312.00632)   
+
 
 `Prediction and Causation`
 
