@@ -60,6 +60,10 @@ Order from beginner to advanced.
 
 Reverse chronological order, both technical and popular.   
 
+* Applied Causal Inference Powered by ML and AI   
+  V. Chernozhukov, C. Hansen, N. Kallus, M. Spindler, V. Syrgkanis (2024)  
+  [offfical-web](https://causalml-book.org) | [pdf](https://causalml-book.org/assets/chapters/CausalML_book.pdf)  
+
 * A Mathematical Introduction to Causality   
   Lecture Notes (2023)
   Patrick Forré and Joris M. Mooij
