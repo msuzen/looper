@@ -76,6 +76,10 @@ Reverse chronological order, both technical and popular.
 * Applied Causal Inference   
   Uday Kamath, Kenneth Graham, Mitchell Naylor  (2023)   
   [online-version](https://appliedcausalinference.github.io) | [lean-pub](https://leanpub.com/appliedcausalinference)   
+
+* Causal Artificial Intelligence: The Next Step in Effective Business AI  
+  Judith Hurwitz, John Thompson  (2023)
+  [amz](https://amzn.com/dp/1394184131)  
   
 * Causal Inference & Discovery in Python.  (2023)  
   From Machine Learning & Pearlian Perspective. 
