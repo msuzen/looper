@@ -1,5 +1,11 @@
 # looper : A resource list for causality in statistics, data science and physics
 
+<p align="left">
+  <img src="assets/pearl_penrose.jpg" width="250" title="Penrose meets Pearl (2021)">
+  <small>Penrose meets Pearl, (c) 2021</small>
+</p>
+
+
 Our honour to be mentioned by Judea Pearl on [twitter](https://twitter.com/ceobillionaire/status/1388630546797023232).
 
 ```

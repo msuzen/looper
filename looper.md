@@ -1,4 +1,4 @@
-# `A resource list for causality in statistics, data science and physics.`
+# [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper)
 
 ##### Table of Contents  
 [Editor's Selection](#editors-selection).  
@@ -41,10 +41,12 @@ Order from beginner to advanced.
   Causal Inference in Statistics: A Primer (2016).  
   [amzn](https://www.amzn.com/dp/1119186846).   
   [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
-  [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).   
+  [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).    
+  Self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality) 
 
 * Nobel Memorial Economics Prize 2021 on causal discovery, scientific summary.     
-  Answering Causal Questions Using Observational Data.   
+  Answering Causal Questions Using Observational Data.   (2021)   
+  (David Card, Joshua Angrist, and Guido Imbens)  
   [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).
 
 * Causality, determinism, and physics.   
@@ -159,7 +161,8 @@ Reverse chronological order, both technical and popular.
   Causal Inference in Statistics: A Primer (2016).  
   [amzn](https://www.amzn.com/dp/1119186846).   
   [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
-  [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).   
+  [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).  
+  Self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)    
 
 * Mastering 'Metrics: The Path from Cause to Effect. (2015).          
   Angrist, J.D. and J.-S.Pischke.   
@@ -401,10 +404,10 @@ Reverse chronological order, both technical and popular.
   `potential outcomes`
   
 * Causal diagrams for empirical research.    
-  Judea Pearl (1995).     
+  Judea Pearl (1995).      
   [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).
   `Reasoning on Graphs: d-seperation, back/front-door`
-  
+
 * Identification and Estimation of Local Average Treatment Effects.   
   Joshua D. Angrist & Guido W. Imbens.    
   [nber](https://www.nber.org/papers/t0118) (1995).
@@ -473,8 +476,9 @@ Reverse chronological order, both technical and popular.
   [arXiv](https://arxiv.org/abs/2011.14821) (2021).  
 
 * Nobel Memorial Economics Prize 2021 on causal discovery, scientific summary.     
-  Answering Causal Questions Using Observational Data.   
-  [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).  
+  Answering Causal Questions Using Observational Data.   (2021)   
+  (David Card, Joshua Angrist, and Guido Imbens)     
+  [pdf](https://www.nobelprize.org/uploads/2021/10/advanced-economicsciencesprize2021.pdf).   
   
  * Causal network reconstruction from time series: From theoretical assumptions to practical estimation.  
   J. Runge.  
@@ -499,6 +503,12 @@ Reverse chronological order, both technical and popular.
   KDD '23: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining   
   August 2023, Pages 5092–5103 [doi](https://doi.org/10.1145/3580305.3599859) | [git-repository](https://github.com/ant-research/Learning-to-Discover-Various-Simpson-Paradoxes)
 
+* A toolbox to demystify probabilistic and statistical paradoxes.   
+  Kelter R, Schnurr A and Spies S (2023)   
+  Front. Educ. 8:1212419. [doi](https://doi.org/10.3389/feduc.2023.1212419) | [author-pdf](https://dspace.ub.uni-siegen.de/bitstream/ubsi/2578/3/A_toolbox_to_demystify_probabilistic_and_statistical_paradoxes.pdf)
+
+* Pearl, J. (2014). Comment: understanding Simpson’s paradox. Am. Stat. 68, 8–13. doi: 10.1080/00031305.2014.876829
+
 * Simpson's Paradox: An Anatomy    
   Judea Pearl (1999). 
   [UCLA Technical-Report](http://bayes.cs.ucla.edu/R264.pdf)
@@ -507,6 +517,10 @@ Reverse chronological order, both technical and popular.
   Colin R. Blyth.  
   Journal of the American Statistical Association.  
   Vol. 67, No. 338 (Jun., 1972), pp. 364-366.  [doi](https://doi.org/10.2307/2284382) 
+
+*  The interpretation of interaction in contingency tables.       
+   Simpson, E. H. (1951).    
+   J. Royal Stat. Soc. 13, 238–241.  [doi](https://dx.doi.org/10.1111/J.2517-6161.1951.TB00088.X)   
 
 ## Machine Learning
 Including games, reinforcement or deep learning, LLMs
@@ -659,39 +673,30 @@ Including games, reinforcement or deep learning, LLMs
 
 ## Software.  
 
-* R Universe: [CRAN Task View Causal Inference](https://cran.r-project.org/web/views/CausalInference.html)
+### Causal Discovery
 
-* auto-causality [github](https://github.com/transferwise/auto-causality).   
+  * Causal-learn: Causal Discovery in Python   
+    Spirtes & CMU & Team  
+    [arXiv](https://arxiv.org/abs/2307.16405) | [repo](https://github.com/py-why/causal-learn)  
 
-* Primier, self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)
+  * Tigramite – Causal inference and causal discovery for time series datasets.    
+    [github](https://github.com/jakobrunge/tigramite)
 
-* cause2e: A Python package for end-to-end causal analysis.    
-  [github](https://github.com/MLResearchAtOSRAM/cause2e).    
+  * The Causal Discovery Toolbox (CDT)    
+    A package for causal inference in graphs and in the pairwise settings.            
+    [github](https://github.com/FenTechSolutions/CausalDiscoveryToolbox).   | [arXiv](https://arxiv.org/abs/1903.02278)
 
-* Causal-learn: Causal Discovery in Python   
-  Spirtes & CMU & Team  
-  [arXiv](https://arxiv.org/abs/2307.16405) | [repo](https://github.com/py-why/causal-learn)  
+  * LinGAM Discovery of non-gaussian linear causal models [github](https://github.com/cdt15/lingam) | [software paper](https://jmlr.org/papers/v24/21-0321.html)  | [original paper](https://www.jmlr.org/papers/v7/shimizu06a.html)  
 
-* The Causal Discovery Toolbox.    
-  A package for causal inference in graphs and in the pairwise settings.            
-  [github](https://github.com/FenTechSolutions/CausalDiscoveryToolbox).      
+  * PyPhi: A toolbox for integrated information theory.   
+  [pypi](https://pypi.org/project/pyphi/).  
+  [arXiv1712.09644](https://arxiv.org/abs/1712.09644)
 
-* upliftml : Uplift modelling, Booking.com
-  [github](https://github.com/bookingcom/upliftml)
+  * Causal-tune [github](https://github.com/py-why/causaltune).
 
-* DoubleML in Python/R package [github](https://github.com/DoubleML/doubleml-for-py).
+  * Huawei's gCastle is a causal structure learning toolchain [github-repo](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)
 
-* pgmpy is a pure python implementation for Bayesian Networks [www](https://pgmpy.org) | [Paper-ArXiv](https://arxiv.org/abs/2304.08639) | 
-
-* PyCID: Causal Influence Diagrams library [github](https://github.com/causalincentives/pycid)
-  (Relevant to PyCID : A python library for 2 player games [nashpy](https://github.com/drvinceknight/nashpy)   
-
-* LinGAM Discovery of non-gaussian linear causal models [github](https://github.com/cdt15/lingam) | [software paper](https://jmlr.org/papers/v24/21-0321.html)  | [original paper](https://www.jmlr.org/papers/v7/shimizu06a.html)
-
-* (synthdid: Synthetic Difference in Differences Estimation)[https://synth-inference.github.io/synthdid/index.html].  
-  R-package
- 
-* Microsoft Research:  
+### Microsoft Research : PyWhy
   
   * PyWhy organisation [github](https://github.com/py-why/).      
     [DoWhy evolves to independent PyWhy model to help causal inference grow](https://www.microsoft.com/en-us/research/blog/dowhy-evolves-to-independent-pywhy-model-to-help-causal-inference-grow/?OCID=msr_blog_PyWhy_TW) | [aws-blog](https://www.amazon.science/blog/aws-contributes-novel-causal-machine-learning-algorithms-to-dowhy)     
@@ -714,49 +719,74 @@ Including games, reinforcement or deep learning, LLMs
   * Causica : DECI: End to End Causal Inference     
     [github](https://github.com/microsoft/causica)  
 
-* [CausalNex](https://github.com/quantumblacklabs/causalnex) A toolkit for causal reasoning with Bayesian Networks 
-  from Quantumblack.
+  * Causal-learn: Causal Discovery in Python   
+    Spirtes & CMU & Team  
+    [arXiv](https://arxiv.org/abs/2307.16405) | [repo](https://github.com/py-why/causal-learn)    
 
-* CausalML: A Python Package for Uplift Modeling and Causal Inference with ML.  
+  * llm experimental [pywhy-llm](https://github.com/py-why/pywhy-llm)   
+
+### Causal Impact and Observational
+
+  * DoubleML in Python/R package [github](https://github.com/DoubleML/doubleml-for-py). | [JSS-article](https://www.jstatsoft.org/article/view/v108i03)   
+
+  * CausalML: A Python Package for Uplift Modeling and Causal Inference with ML.  
     [github](https://github.com/uber/causalml) | [software X paper](https://doi.org/10.1016/j.softx.2022.101294)
 
-* Tigramite – Causal inference and causal discovery for time series datasets.    
-  [github](https://github.com/jakobrunge/tigramite)
-  
-* IBM's causalib Python package [github](https://github.com/IBM/causallib)
-
-* Huawei's gCastle is a causal structure learning toolchain [github-repo](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)
-
-* [CausalPy](https://github.com/pymc-labs/CausalPy) : Bayesian -regression discontinuity |
-  [pymc-lab](https://www.pymc-labs.io)
-
-* [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
-
-* dagR: Directed Acyclic Graph with R.  
-  [CRAN](https://cran.r-project.org/web/packages/dagR/index.html)[doi](http://dx.doi.org/10.1097/EDE.0b013e3181e09112)
-
-* An R package for causal inference using Bayesian structural time-series models   
+  * An R package for causal inference using Bayesian structural time-series models   
   [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html). 
   [CRAN](https://cran.r-project.org/package=CausalImpact).    
   [github-python-port](https://github.com/jamalsenouci/causalimpact).   
   [paper](https://research.google/pubs/pub41854/).    
   [causalimpact-tf](https://github.com/WillianFuks/tfcausalimpact) Re-write with tensorflow probability
 
-* Python package [causalinference](https://github.com/laurencium/causalinference)  | [web](https://causalinferenceinpython.org).    
-  [Vignette](https://github.com/laurencium/causalinference/blob/master/docs/tex/vignette.pdf)
+  * upliftml : Uplift modelling, Booking.com
+  [github](https://github.com/bookingcom/upliftml)
 
-* Tetrad Project: Graphical Causal Models  
+  * [Identifying Causal Effects with the R Package causaleffect](https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf)
+
+  * IBM's causalib Python package [github](https://github.com/IBM/causallib)
+
+  * (synthdid: Synthetic Difference in Differences Estimation)[https://synth-inference.github.io/synthdid/index.html].  
+  R-package
+
+### Causal Graphs and Bayesian Networks
+
+  * DAGitty — draw and analyze causal diagrams [url](https://www.dagitty.net)  
+
+  * CausalQueries: Make, Update, and Query Binary Causal Models   
+    [CRAN](https://cran.rstudio.com/web/packages/CausalQueries/index.html) | [book: Causal Models: Guide to CausalQueries](https://macartan.github.io/causalmodels/)   
+
+  * pgmpy is a pure python implementation for Bayesian Networks [www](https://pgmpy.org) | [Paper-ArXiv](https://arxiv.org/abs/2304.08639) | 
+
+  * causaleffect: Deriving Expressions of Joint Interventional Distributions and Transport Formulas in Causal Models.   
+    [CRAN](https://cran.r-project.org/web/packages/causaleffect/index.html).  
+    * GRAPHL [repo](https://github.com/max-little/GRAPL) | [joss](https://joss.theoj.org/papers/10.21105/joss.04534.pdf)
+
+  * dagR: Directed Acyclic Graph with R.  
+  [CRAN](https://cran.r-project.org/web/packages/dagR/index.html)[doi](http://dx.doi.org/10.1097/EDE.0b013e3181e09112)
+  
+  * PyCID: Causal Influence Diagrams library [github](https://github.com/causalincentives/pycid)
+  Relevant to PyCID : A python library for 2 player games [nashpy](https://github.com/drvinceknight/nashpy)  
+
+  * [CausalPy](https://github.com/pymc-labs/CausalPy) : Bayesian -regression discontinuity |
+  [pymc-lab](https://www.pymc-labs.io)
+  
+  * [CausalNex](https://github.com/quantumblacklabs/causalnex) A toolkit for causal reasoning with Bayesian Networks 
+  from Quantumblack.
+
+  * Tetrad Project: Graphical Causal Models  
   [url](http://www.phil.cmu.edu/tetrad/)
 
-* PyPhi: A toolbox for integrated information theory.   
-  [pypi](https://pypi.org/project/pyphi/).  
-  [arXiv1712.09644](https://arxiv.org/abs/1712.09644)
-  
-* causaleffect: Deriving Expressions of Joint Interventional Distributions and Transport Formulas in Causal Models.   
-  [CRAN](https://cran.r-project.org/web/packages/causaleffect/index.html).  
-  * GRAPHL [repo](https://github.com/max-little/GRAPL) | [joss](https://joss.theoj.org/papers/10.21105/joss.04534.pdf)
+### Views
+
+  * R Universe: [CRAN Task View Causal Inference](https://cran.r-project.org/web/views/CausalInference.html)
 
 ## Datasets
+
+* R causaldata         
+  Nick Huntington-Klein, Malcolm Barrett    
+  Example dataset from some of the Causality textbooks       
+  [github](https://github.com/NickCH-K/causaldata) |  [cran](https://cran.r-project.org/web/packages/causaldata/index.html)    
 
 * Distinguishing Cause from Effect Using Observational Data: Methods and Benchmarks.     
   Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Schölkopf;   
@@ -764,6 +794,9 @@ Including games, reinforcement or deep learning, LLMs
   Database with cause-effect pairs [url](https://webdav.tuebingen.mpg.de/cause-effect/).     
  
 ## MOOCs
+
+* Mixtape sessions [url](https://www.mixtapesessions.io)  
+  Free Course Material  
 
 * A Crash Course in Causality: Inferring Causal Effects from Observational Data.    
   [url](https://www.coursera.org/learn/crash-course-in-causality)
@@ -896,5 +929,6 @@ including discussions
 
 * [Causal Science](https://www.causalscience.org)
 * Counterfactual reasoning: From minds to machines to practical applications.  
-  ICML Workshop [url](https://sites.google.com/view/counterfactuals-icml/home) (2023) 
+  ICML Workshop [url](https://sites.google.com/view/counterfactuals-icml/home) (2023)   
+* Neurips 2023: Causal Representation Learning (CRL) [url](https://neurips.cc/virtual/2023/workshop/66497) 
 
