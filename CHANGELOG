@@ -1,3 +1,10 @@
+0.3.1
+* New Sections:   
+  * Thesis: Causal Representation learning and point process.   
+  * Review: Imbens's review.   
+* Conference update: LLMs are causal parrots.    
+* ML papers: Causal bandits, causal threatment outcome prediction.   
+
 0.3.0
 * New books: Chernozhukov et. al. (2024), Hurwitz-Thompson (2023).  
 * Logo: Penrose meets Pearl.   

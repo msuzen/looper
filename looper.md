@@ -9,6 +9,8 @@
 [Machine Learning](#machine-learning)  
 [Fairness](#fairness)  
 [Physics](#physics)  
+[Thesis](#thesis)  
+[Reviews](#review)  
 [Software](#software)  
 [Datasets](#datasets)     
 [MOOCs](#moocs)  
@@ -16,11 +18,11 @@
 [Quotes](#quotes)  
 [Video Lectures](#video-lectures).  
 [Academics](#academics).   
-[Communities](#communities-conferences)
+[Communities](#communities-conferences)  
 
 ## Editors Selection 
-Repeating from other sections, Highly important 
-Order from beginner to advanced.
+Repeating from other sections, Highly important    
+Order from beginner to advanced.    
 
 * Judea Pearl and Mackenzie.  
   The Book of Why: The New Science of Cause and Effect (2018).  
@@ -38,7 +40,7 @@ Order from beginner to advanced.
   [url](https://muse.jhu.edu/article/867087) | [pdf](https://muse.jhu.edu/pub/56/article/867087/pdf).         
 
 * Pearl, Glymour and Jewell.  
-  Causal Inference in Statistics: A Primer (2016).  
+  Causal Inference in Statistics: A Primer (2016).   
   [amzn](https://www.amzn.com/dp/1119186846).   
   [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
   [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).    
@@ -55,8 +57,13 @@ Order from beginner to advanced.
 
 * Causal diagrams for empirical research.    
   Judea Pearl (1995).     
-  [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).
-  `Reasoning on Graphs: d-seperation, back/front-door`
+  [jstor](https://www.jstor.org/stable/2337329) | [pdf-UCLA](http://bayes.cs.ucla.edu/R218-B.pdf).     
+  `Reasoning on Graphs: d-seperation, back/front-door`    
+
+* Paul W. Holland.     
+  Statistics and Causal Inference.     
+  Journal of the American Statistical Association.     
+  Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064).      
 
 ## Books   
 
@@ -344,15 +351,15 @@ Reverse chronological order, both technical and popular.
   Keynote AI Uncertainy Conference (2012).  
   [pdf](https://ftp.cs.ucla.edu/pub/stat_ser/r402.pdf)
   
-* Detecting causality in complex ecosystems.   
+* Detecting causality in complex ecosystems.    
   George Sugihara, Robert May, Hao Ye, Chih-hao Hsieh, Ethan Deyle, Michael Fogarty, Stephan Munch.   
   Science Oct 26;338(6106):496-500 (2012).    
   [doi](https://doi.org/10.1126/science.1227079).    
   `convergent cross-mapping`
 
-* Introduction to Causal Inference.   
-  Peter Spirtes.  
-  (2010)  
+* Introduction to Causal Inference.    
+  Peter Spirtes.    
+  (2010)    
   [jmlr](http://www.jmlr.org/papers/v11/spirtes10a.html).   
 
 *  Transfer entropy—a model-free measure of effective connectivity for the neurosciences.   
@@ -523,7 +530,15 @@ Reverse chronological order, both technical and popular.
    J. Royal Stat. Soc. 13, 238–241.  [doi](https://dx.doi.org/10.1111/J.2517-6161.1951.TB00088.X)   
 
 ## Machine Learning
-Including games, reinforcement or deep learning, LLMs
+Including games, reinforcement or deep learning.
+
+* Causally Abstracted Multi-armed Bandits   
+  Fabio Massimo Zennaro et. al.     
+  [arXiv](https://arxiv.org/abs/2404.17493) (2024)     
+
+* Causal machine learning for predicting treatment outcomes       
+  Stefan Feuerriegel et. al.      
+  [url](https://www.nature.com/articles/s41591-024-02902-1) (2023)  
 
 * Causal machine learning for single-cell genomics   
   Alejandro Tejada-Lapuerta, Paul Bertin, Stefan Bauer, Hananeh Aliee, Yoshua Bengio, Fabian J. Theis    
@@ -565,10 +580,6 @@ Including games, reinforcement or deep learning, LLMs
 * Evaluating Uses of Deep Learning Methods for Causal Inference.    
   Albert Whata; Charles Chimedza.   
   [ieee](https://ieeexplore.ieee.org/abstract/document/9667520). (2022)   
-  
-* Explainable Reinforcement Learning Through a Causal Lens.    
-  Prashan Madumal.   
-  PhD thesis, Australia [pdf](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/0730665b-be59-5e97-9eb8-33223bf6464c/content) | [aaai](https://ojs.aaai.org//index.php/AAAI/article/view/5631).  (2021). 
 
 * Causal Reinforcement Learning using Observational and Interventional Data.     
   Maxime Gasse, Damien Grasset, Guillaume Gaudron, Pierre-Yves Oudeyer.    
@@ -576,8 +587,8 @@ Including games, reinforcement or deep learning, LLMs
 
 * Causal Reinforcement Learning, ICML 2020 [url](https://crl.causalai.net)
 
-* Sample-Efficient Reinforcement Learning via Counterfactual-Based Data Augmentation.  
-  Chaochao Lu, Biwei Huang, Ke Wang, José Miguel Hernández-Lobato, Kun Zhang, Bernhard Schölkopf.  (2020).     
+* Sample-Efficient Reinforcement Learning via Counterfactual-Based Data Augmentation.   
+  Chaochao Lu, Biwei Huang, Ke Wang, José Miguel Hernández-Lobato, Kun Zhang, Bernhard Schölkopf.  (2020).      
   [arXiv:2012.09092](https://arxiv.org/abs/2012.09092)
   
 * Causality for Machine Learning.  
@@ -627,7 +638,7 @@ Including games, reinforcement or deep learning, LLMs
 
 *  H-Theorem do-conjecture  
    M. Suzen   
-   [arXiv:2310.01458](https://arxiv.org/abs/2310.01458). | [code-repo](https://github.com/msuzen/h-do-conjecture)
+   [arXiv:2310.01458](https://arxiv.org/abs/2310.01458). | [code](https://github.com/msuzen/research/tree/main/h-do-conjecture)
 
 * Causality, determinism, and physics.   
   Julio Geo-Banacloche.    
@@ -667,9 +678,33 @@ Including games, reinforcement or deep learning, LLMs
   [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.521)
 
 * The class of continuous timelike curves determines the topology of spacetime.   
-  David B. Malament.  
+  David B. Malament.   
   Journal of Mathematical Physics 18, 1399 (1977).   
   [doi](https://doi.org/10.1063/1.523436).  
+
+
+## Thesis  
+
+PhD thesis on causality.     
+
+* Causality in Point Processes     
+  McGovern, Ian      
+  PhD Thesis, Los Angeles, [url](https://escholarship.org/content/qt5x56b2fk/qt5x56b2fk.pdf)  (2024)      
+
+* Identifiable Causal Representation Learning    
+  Unsupervised, Multi-View, and Multi-Environment    
+  Julius von Kügelgen         
+  PhD Thesis, Cambridge [doi](https://doi.org/10.17863/CAM.106852)    (2023)      
+
+* Explainable Reinforcement Learning Through a Causal Lens.    
+  Prashan Madumal.   
+  PhD thesis, Melbourne [pdf](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/0730665b-be59-5e97-9eb8-33223bf6464c/content) | [aaai](https://ojs.aaai.org//index.php/AAAI/article/view/5631).  (2021).    
+
+## Review   
+
+* Causal Inference in the Social Sciences           
+  Guido W. Imbens              
+  [url](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-033121-114601) (2024)      
 
 ## Software.  
 
@@ -928,7 +963,9 @@ including discussions
 # Communities Conferences
 
 * [Causal Science](https://www.causalscience.org)
-* Counterfactual reasoning: From minds to machines to practical applications.  
-  ICML Workshop [url](https://sites.google.com/view/counterfactuals-icml/home) (2023)   
+* Are Large Language Models Simply Causal Parrots?       
+  Annual AAAI Conference on Artificial Intelligence 2024 [url](https://llmcp.cause-lab.net/schedule-llmcp)    
+* Counterfactual reasoning: From minds to machines to practical applications.    
+  ICML Workshop [url](https://sites.google.com/view/counterfactuals-icml/home) (2023)     
 * Neurips 2023: Causal Representation Learning (CRL) [url](https://neurips.cc/virtual/2023/workshop/66497) 
 
