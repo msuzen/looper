@@ -532,6 +532,14 @@ Reverse chronological order, both technical and popular.
 ## Machine Learning
 Including games, reinforcement or deep learning.
 
+* Invariant Causal Knowledge Distillation in Neural Networks
+  Nikolaos Giakoumoglou, Tania Stathaki
+  [arXiv](https://arxiv.org/abs/2407.11802v2) (2024)
+
+* Peer-induced Fairness: A Causal Approach for Algorithmic Fairness Auditing
+  Shiqi Fang, Zexun Chen, Jake Ansell
+  [arXiv](https://arxiv.org/abs/2408.02558) (2024)
+
 * Causally Abstracted Multi-armed Bandits   
   Fabio Massimo Zennaro et. al.     
   [arXiv](https://arxiv.org/abs/2404.17493) (2024)     
