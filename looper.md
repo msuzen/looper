@@ -589,6 +589,10 @@ Including games, reinforcement or deep learning.
   Albert Whata; Charles Chimedza.   
   [ieee](https://ieeexplore.ieee.org/abstract/document/9667520). (2022)   
 
+* Causal Machine Learning: A Survey and Open Problems   
+  Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, Ricardo Silva 
+  [arXiv](https://arxiv.org/abs/2206.15475) (2022)
+
 * Causal Reinforcement Learning using Observational and Interventional Data.     
   Maxime Gasse, Damien Grasset, Guillaume Gaudron, Pierre-Yves Oudeyer.    
   [arXiv:2106.14421](https://arxiv.org/abs/2106.14421) (2021)
