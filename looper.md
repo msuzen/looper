@@ -63,8 +63,15 @@ Order from beginner to advanced.
 * Paul W. Holland.     
   Statistics and Causal Inference.     
   Journal of the American Statistical Association.     
-  Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064).      
+  Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064).    
+  `Paper that coins the term: Fundamental Problem of Causal Inference`
+  `It means there is no way to observe causality on the single entity simultaneously.`       
 
+* Probabilistic and Causal Inference: The Works of Judea Pearl.  (2022)    
+  Editors: Hector Geffner,Rina Dechter,Joseph Y. Halpern.    
+  ACM Books [doi](https://dl.acm.org/doi/book/10.1145/3501714).   
+  `An excellent technical reviews of Pearlian approach to causal inference`    
+   
 ## Books   
 
 Reverse chronological order, both technical and popular.   
