@@ -63,7 +63,7 @@ Order from beginner to advanced.
 * Paul W. Holland.     
   Statistics and Causal Inference.     
   Journal of the American Statistical Association.     
-  Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064).    
+  Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064). | [pdf-from-David-Bleie](https://www.cs.columbia.edu/~blei/fogm/2020F/readings/Holland1986.pdf)    
   `Paper that coins the term: Fundamental Problem of Causal Inference`
   `It means there is no way to observe causality on the single entity simultaneously.`       
 
@@ -430,7 +430,7 @@ Reverse chronological order, both technical and popular.
 *  Paul W. Holland.  
    Statistics and Causal Inference.  
    Journal of the American Statistical Association.  
-   Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064). 
+   Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064). | [pdf-from-David-Bleie](https://www.cs.columbia.edu/~blei/fogm/2020F/readings/Holland1986.pdf)    
 
 * Rubin, D. B. (1974)   
   Estimating causal effects of treatments in randomized and nonrandomized studies.    
