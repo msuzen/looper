@@ -537,11 +537,15 @@ Reverse chronological order, both technical and popular.
    J. Royal Stat. Soc. 13, 238–241.  [doi](https://dx.doi.org/10.1111/J.2517-6161.1951.TB00088.X)   
 
 ## Machine Learning
-Including games, reinforcement or deep learning.
+Including games, reinforcement or deep learning.    
 
-* Invariant Causal Knowledge Distillation in Neural Networks
-  Nikolaos Giakoumoglou, Tania Stathaki
-  [arXiv](https://arxiv.org/abs/2407.11802v2) (2024)
+* Language Models as Causal Effect Generators    
+  Lucius E.J. Bynum, Kyunghyun Cho    
+  [arXiv](https://arxiv.org/abs/2411.08019) (2024)    
+
+* Invariant Causal Knowledge Distillation in Neural Networks   
+  Nikolaos Giakoumoglou, Tania Stathaki   
+  [arXiv](https://arxiv.org/abs/2407.11802v2) (2024)   
 
 * Peer-induced Fairness: A Causal Approach for Algorithmic Fairness Auditing
   Shiqi Fang, Zexun Chen, Jake Ansell
