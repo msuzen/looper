@@ -539,6 +539,10 @@ Reverse chronological order, both technical and popular.
 ## Machine Learning
 Including games, reinforcement or deep learning.    
 
+* Comprehensive Causal Machine Learning
+  Michael Lechner, Jana Mareckova
+  [arxiv](https://arxiv.org/abs/2405.10198)| (2024)
+
 * Language Models as Causal Effect Generators    
   Lucius E.J. Bynum, Kyunghyun Cho    
   [arXiv](https://arxiv.org/abs/2411.08019) (2024)    
@@ -613,6 +617,10 @@ Including games, reinforcement or deep learning.
 * Sample-Efficient Reinforcement Learning via Counterfactual-Based Data Augmentation.   
   Chaochao Lu, Biwei Huang, Ke Wang, José Miguel Hernández-Lobato, Kun Zhang, Bernhard Schölkopf.  (2020).      
   [arXiv:2012.09092](https://arxiv.org/abs/2012.09092)
+
+* Machine Learning Methods That Economists Should Know About   
+  Susan Athey and Guido W. Imbens
+  [Annual Reviews](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080217-053433;jsessionid=ln_r7UHAEX_IEsVFDhG1ZgtVXrsPhWv5ReUKrihr.ip-10-241-10-70) (2019)
   
 * Causality for Machine Learning.  
   Bernhard Schölkopf.  
