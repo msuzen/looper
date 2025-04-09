@@ -335,10 +335,10 @@ Reverse chronological order, both technical and popular.
   Front. Psychol., 26 January 2016. 
   [doi](https://doi.org/10.3389/fpsyg.2016.00011)
 
-* Causal inference and the data-fusion problem   
-  Elias Bareinboim and Judea Pearl   
-  PNAS, 113 (27) 7345-7352 (2016)   
-  [doi](https://doi.org/10.1073/pnas.151050711)   
+* Causal inference and the data-fusion problem    
+  Elias Bareinboim and Judea Pearl    
+  PNAS, 113 (27) 7345-7352 (2016)    
+  [doi](https://doi.org/10.1073/pnas.1510507113)     
 
 * The Sure-Thing Principle.  
   Judea Pearl (2016).  
