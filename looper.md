@@ -462,6 +462,12 @@ Reverse chronological order, both technical and popular.
 
 ## Causal Discovery
 
+* Causation versus Prediction: Comparing Causal Discovery and  
+  Inference with Artificial Neural Networks in Travel Mode Choice Modeling  
+  Rishabh Singh Chauhan, Uttara Sutradhar, Anton Rozhkov, Sybil Derrible
+  [arXiv](https://arxiv.org/abs/2307.15262) (2023)
+  `Comparison of PC and Double ML on transportation preference`
+
 * An Introduction to Causal Discovery   
   Martin Huber, A bonus chapter (2023)   
   [pdf-academic-page](https://www.unifr.ch/appecon/en/assets/public/uploads/introcausaldiscovery2.pdf)
