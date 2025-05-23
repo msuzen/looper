@@ -1004,6 +1004,7 @@ including discussions
   
 # Communities Conferences
 
+* Causal RL [RLC Workshop 2025](https://sites.google.com/uci.edu/crlw2025/)
 * [Causal Science](https://www.causalscience.org)
 * Are Large Language Models Simply Causal Parrots?       
   Annual AAAI Conference on Artificial Intelligence 2024 [url](https://llmcp.cause-lab.net/schedule-llmcp)    
