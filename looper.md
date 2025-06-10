@@ -906,7 +906,11 @@ PhD thesis on causality.
   
 * Judea Pearl, model vs. model-free :   
   "...no “causal interpretation” is needed for parameters that are intrinsically causal..."    
-  [url](http://causality.cs.ucla.edu/blog/index.php/2017/02/22/winter-2017-greeting-from-ucla-causality-blog/).   
+  [url](http://causality.cs.ucla.edu/blog/index.php/2017/02/22/winter-2017-greeting-from-ucla-causality-blog/).
+
+* Eight basic rules for causal inference    
+  By Peder M. Isager (2024)   
+  Tutorial [url](https://pedermisager.org/blog/seven_basic_rules_for_causal_inference/)   
 
 ## Quotes
 
