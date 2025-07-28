@@ -63,14 +63,25 @@ Order from beginner to advanced.
 * Paul W. Holland.     
   Statistics and Causal Inference.     
   Journal of the American Statistical Association.     
-  Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064). | [pdf-from-David-Bleie](https://www.cs.columbia.edu/~blei/fogm/2020F/readings/Holland1986.pdf)    
+  Dec., 1986, Vol. 81, No. 396 (Dec., 1986), pp. 945-960 [jstor](https://www.jstor.org/stable/2289064)
   `Paper that coins the term: Fundamental Problem of Causal Inference`
   `It means there is no way to observe causality on the single entity simultaneously.`       
 
 * Probabilistic and Causal Inference: The Works of Judea Pearl.  (2022)    
   Editors: Hector Geffner,Rina Dechter,Joseph Y. Halpern.    
   ACM Books [doi](https://dl.acm.org/doi/book/10.1145/3501714).   
-  `An excellent technical reviews of Pearlian approach to causal inference`    
+  `An excellent technical reviews of Pearlian approach to causal inference`
+
+* Causal Artificial Intelligence   
+  A Roadmap for Building Causally Intelligent Systems   
+  Elias Bareinboim   (2025)    
+  [causalai-book website](https://causalai-book.net/)
+  
+* Quantum causality.   
+  Brukner, Časlav.      
+  Nature Physics, Volume 10, Issue 4, pp. 259-263 (2014).     
+  [doi](https://ui.adsabs.harvard.edu/link_gateway/2014NatPh..10..259B/doi:10.1038/nphys2930) | [yale-pdf](https://inferenceproject.yale.edu/sites/default/files/brukner2014_q_causality.pdf)
+
    
 ## Books   
 
