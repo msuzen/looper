@@ -76,12 +76,11 @@ Order from beginner to advanced.
   A Roadmap for Building Causally Intelligent Systems   
   Elias Bareinboim   (2025)    
   [causalai-book website](https://causalai-book.net/)
-  
-* Quantum causality.   
-  Brukner, Časlav.      
-  Nature Physics, Volume 10, Issue 4, pp. 259-263 (2014).     
-  [doi](https://ui.adsabs.harvard.edu/link_gateway/2014NatPh..10..259B/doi:10.1038/nphys2930) | [yale-pdf](https://inferenceproject.yale.edu/sites/default/files/brukner2014_q_causality.pdf)
 
+* Space-time as a causal set.  
+  Luca Bombelli, Joohan Lee, David Meyer, and Rafael D. Sorkin.  
+  Phys. Rev. Lett. 59, 521 (1987).  
+  [url](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.521)
    
 ## Books   
 
