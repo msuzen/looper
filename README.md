@@ -1,4 +1,6 @@
-# looper : A resource list for causality in statistics, data science and physics
+# looper : A resource list for causality in statistics, data science and physics  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17247981.svg)](https://doi.org/10.5281/zenodo.17247981)    
 
 <p align="left">
   <img src="assets/pearl_penrose.jpg" width="250" title="Penrose meets Pearl (2021)">
@@ -6,7 +8,7 @@
 </p>
 
 
-Our honour to be mentioned by Judea Pearl on [twitter](https://twitter.com/ceobillionaire/status/1388630546797023232).
+Our honour to be mentioned by Judea Pearl on [twitter](https://x.com/yudapearl/status/1388556564550717442).
 
 ```
  
@@ -37,18 +39,19 @@ This repository and all contributions are licensed under
 
 ## Citing the repo
 
-Please attribute this work as follows
+Please attribute this work as follows (bibtex) and check for the newest version,
 
 ```
-@misc{suezen2018a,
-  author = {Mehmet S{\"u}zen et. al.},
-  title = {A resource list for causality in statistics, data science and physics},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/msuzen/looper}},
+@manual{suzen18a,
+  title        = {A resource list for causality in statistics, data science and physics},
+  author       = {Mehmet, Süzen},
+  year         = {2025},
+  version      = {v0.3.1},
+  doi          = {10.5281/zenodo.17247981},
+  url          = {https://doi.org/10.5281/zenodo.17247981},
 }
 ```
+
 If you are embedding specific release, use the version link, for example for `https://github.com/msuzen/looper/tree/v0.1.2`
 in `howpublished` tag.
 
