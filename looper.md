@@ -44,7 +44,8 @@ Order from beginner to advanced.
   [amzn](https://www.amzn.com/dp/1119186846).   
   [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
   [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).    
-  Self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality) 
+  Self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)    
+  Full-text is available on [UCLA Bayes](https://bayes.cs.ucla.edu/PRIMER/).    
 
 * Nobel Memorial Economics Prize 2021 on causal discovery, scientific summary.     
   Answering Causal Questions Using Observational Data.   (2021)   
@@ -192,7 +193,8 @@ Reverse chronological order, both technical and popular.
   [amzn](https://www.amzn.com/dp/1119186846).   
   [Ch4-pdf](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf).     
   [tweet-solution-manual](https://twitter.com/yudapearl/status/1484023795811696642).  
-  Self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)    
+  Self-study by Bruno Goncalves [github](https://github.com/DataForScience/Causality)
+  Full-text is available on [UCLA Bayes](https://bayes.cs.ucla.edu/PRIMER/). 
 
 * Mastering 'Metrics: The Path from Cause to Effect. (2015).          
   Angrist, J.D. and J.-S.Pischke.   
