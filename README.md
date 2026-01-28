@@ -1,5 +1,10 @@
 # looper : A resource list for causality in statistics, data science and physics  
 
+M. Süzen       
+Editor   
+Please cite as in [here](https://github.com/msuzen/looper/blob/master/CITEME.md)   
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17247981.svg)](https://doi.org/10.5281/zenodo.17247981)    
 
 <p align="left">
