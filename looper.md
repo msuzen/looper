@@ -1,5 +1,9 @@
 # [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper)
 
+M. Süzen       
+Editor   
+Please cite as in [here](https://github.com/msuzen/looper/blob/master/CITEME.md)
+
 ##### Table of Contents  
 [Editor's Selection](#editors-selection).  
 [Books](#books)   
