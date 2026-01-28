@@ -47,13 +47,13 @@ This repository and all contributions are licensed under
 Please attribute this work as follows (bibtex) and check for the newest version,
 
 ```
-@manual{suzen18a,
+@misc{suzen25,
   title        = {A resource list for causality in statistics, data science and physics},
-  author       = {Mehmet, Süzen},
-  year         = {2025},
-  version      = {v0.3.1},
+  author       = {Süzen, Mehmet et al.},
+  year         = 2025,
   doi          = {10.5281/zenodo.17247981},
   url          = {https://doi.org/10.5281/zenodo.17247981},
+  note         = "GitHub repo \url{https://github.com/msuzen/looper}, Editor, Süzen M.",
 }
 ```
 
