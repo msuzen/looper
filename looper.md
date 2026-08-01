@@ -91,6 +91,11 @@ Order from beginner to advanced.
 
 Reverse chronological order, both technical and popular.   
 
+*  The Causal Mindset Handbook:   
+   A practical guide to the science of cause and effect  
+   for evidence-based decision making. 
+   Quentin Gallea (2026)   
+   [amzn](https://amzn.com/dp/1806117851)
 
 * Causal Artificial Intelligence   
   A Roadmap for Building Causally Intelligent Systems   
